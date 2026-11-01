@@ -17,9 +17,7 @@ $ rxiv2pdf https://www.biorxiv.org/content/10.64898/2026.10.16.759679v1
 PDF  2026.10.16.759679v1.pdf
 ```
 
-| Page 1 | A figure page |
-|:--:|:--:|
-| ![Page 1: front matter, abstract box, two-column body](https://raw.githubusercontent.com/ali-zaeim/rxiv2pdf/main/docs/screenshots/page1.png) | ![A full-width figure with its caption](https://raw.githubusercontent.com/ali-zaeim/rxiv2pdf/main/docs/screenshots/figure-page.png) |
+![Pages 1 to 3 of the manuscript from bioRxiv, stacked with page 1 in front, showing only the title and affiliations, next to page 1 of the rxiv2pdf output, which holds the same text: the front matter, an abstract box and the start of the two-column body](https://raw.githubusercontent.com/ali-zaeim/rxiv2pdf/main/docs/screenshots/before-after.png)
 
 <sub>Screenshots on this page: Ghosh *et al.*, "Astrocytic sEH–EET signaling regulates microglial
 lysosomal function and suppresses the STING–Type I interferon pathway in Alzheimer's disease",

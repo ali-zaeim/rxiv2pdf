@@ -2,12 +2,17 @@
 
     uv run python scripts/screenshots.py [OUTDIR]      (default: docs/screenshots)
 
-* page1.png, figure-page.png: page 1 and the first full figure page, default theme.
+* before-after.png: pages 1-3 of the authors' PDF on bioRxiv (stacked, page 1 in front) next to
+  page 1 of the rxiv2pdf PDF (default theme), which holds the same text.
 * themes.png: every theme side by side (columns), each showing page 1 (front matter), page 2
   (body text and headings) and the first full figure page (figure, caption, running header).
 
 Uses the README's example preprint, Ghosh et al., bioRxiv 10.64898/2026.10.16.759679
 (CC BY 4.0), downloaded once into the cache.
+
+Never delete or rename a file in docs/screenshots/ that a released README links to: PyPI
+shows each release's README as it was, and the images load from the main branch. page1.png
+and figure-page.png are no longer built or used here, but the 0.1.0 page on PyPI shows them.
 """
 
 from __future__ import annotations
@@ -22,7 +27,7 @@ import typst
 from PIL import Image, ImageDraw, ImageFont
 
 from rxiv2pdf.compile import font_dirs, install_template
-from rxiv2pdf.fetch import fetch
+from rxiv2pdf.fetch import fetch, fetch_original_pdf
 from rxiv2pdf.jats import parse_jats
 from rxiv2pdf.net import Client
 from rxiv2pdf.render_typst import THEMES, ImageRef, RenderOptions, render
@@ -30,9 +35,16 @@ from rxiv2pdf.resolve import resolve
 
 ROOT = Path(__file__).resolve().parent.parent
 DOI = "10.64898/2026.10.16.759679"
-PAGE_PPI, SHEET_PPI = 91.5, 56  # single pages ~793 px wide framed; the theme sheet ~1530 px wide
-GAP, PAD, LABEL = 22, 28, 46  # theme sheet, px: between pages, around the sheet, label band
+PAGE_PPI, SHEET_PPI = 91.5, 56  # before/after pages ~1000 px tall; the theme sheet ~1530 px wide
+GAP, PAD, LABEL = 22, 28, 46  # sheets, px: between pages, around the sheet, label band
+ARROW_GAP = 84  # before/after: between the two sides, room for the arrow
+# Before/after: the manuscript pages stacked on the left, page 1 in front. rxiv2pdf's page 1
+# holds what the manuscript's pages 1-3 hold (title page, abstract, start of the introduction).
+# Each page further back sits right of and below the one in front, where the margins are blank
+# (bioRxiv's notice at the top of every page would show cut off).
+STACK, STACK_STEP = 3, (34, 24)  # pages; px offset per page
 BACKGROUND, BORDER, INK = (226, 229, 233), (186, 190, 196), (40, 44, 52)
+FONT = ROOT / "src" / "rxiv2pdf" / "fonts" / "SourceSans3-Semibold.ttf"
 
 
 def colour_share(page: Image.Image) -> float:
@@ -61,12 +73,22 @@ def key_pages(theme: str, ppi: float, article, manifest, version_dir: Path) -> l
     return [pages[0], pages[1], figure]
 
 
-def framed(page: Image.Image, margin: int = 8) -> Image.Image:
-    """A page on the sheet background, with a hairline edge (white pages vanish on white)."""
-    out = Image.new("RGB", (page.width + 2 * margin, page.height + 2 * margin), BACKGROUND)
-    out.paste(page, (margin, margin))
-    ImageDraw.Draw(out).rectangle((margin - 1, margin - 1, margin + page.width, margin + page.height), outline=BORDER)
-    return out
+def pdf_pages(pdf: Path, count: int, height: int) -> list[Image.Image]:
+    """The first ``count`` pages of ``pdf``, rendered by Typst (as for appended supplements),
+    each ``height`` px tall."""
+    with tempfile.TemporaryDirectory() as tmp:
+        shutil.copyfile(pdf, Path(tmp) / "original.pdf")
+
+        def png(n: int, ppi: float) -> Image.Image:
+            source = f'#set page(width: auto, height: auto, margin: 0pt)\n#image("original.pdf", page: {n})'.encode()
+            return Image.open(io.BytesIO(typst.compile(source, root=tmp, format="png", ppi=ppi))).convert("RGB")
+
+        pages = []
+        for n in range(1, count + 1):
+            points = png(n, 72).height  # 1 px per point
+            page = png(n, 2 * 72 * height / points)  # twice the size, then scaled down: smoother text
+            pages.append(page.resize((round(page.width * height / page.height), height), Image.Resampling.LANCZOS))
+    return pages
 
 
 def save(image: Image.Image, target: Path) -> None:
@@ -81,7 +103,7 @@ def theme_sheet(columns: dict[str, list[Image.Image]]) -> Image.Image:
     size = (2 * PAD + len(columns) * w + (len(columns) - 1) * GAP, PAD + LABEL + rows * h + (rows - 1) * GAP + PAD)
     sheet = Image.new("RGB", size, BACKGROUND)
     draw = ImageDraw.Draw(sheet)
-    font = ImageFont.truetype(str(ROOT / "src" / "rxiv2pdf" / "fonts" / "SourceSans3-Semibold.ttf"), 26)
+    font = ImageFont.truetype(str(FONT), 26)
     for c, (theme, pages) in enumerate(columns.items()):
         x = PAD + c * (w + GAP)
         draw.text((x + w / 2, PAD + LABEL / 2 - 4), f"--theme {theme}", font=font, fill=INK, anchor="mm")
@@ -92,16 +114,45 @@ def theme_sheet(columns: dict[str, list[Image.Image]]) -> Image.Image:
     return sheet
 
 
+def before_after(before: list[Image.Image], after: Image.Image) -> Image.Image:
+    """The manuscript's pages stacked (first page in front) next to the rxiv2pdf page, labelled,
+    with an arrow between them. The stack is as tall as ``after``."""
+    (dx, dy), back = STACK_STEP, len(before) - 1
+    stack_w = before[0].width + back * dx
+    top = PAD + LABEL
+    sheet = Image.new("RGB", (2 * PAD + stack_w + ARROW_GAP + after.width, top + after.height + PAD), BACKGROUND)
+    draw = ImageDraw.Draw(sheet)
+
+    def place(page: Image.Image, x: int, y: int) -> None:
+        sheet.paste(page, (x, y))
+        draw.rectangle((x - 1, y - 1, x + page.width, y + page.height), outline=BORDER)
+
+    for i in reversed(range(len(before))):  # back to front: page 1 is pasted last, on top
+        place(before[i], PAD + i * dx, top + i * dy)
+    right = PAD + stack_w + ARROW_GAP
+    place(after, right, top)
+
+    font = ImageFont.truetype(str(FONT), 28)
+    for centre, label in ((PAD + stack_w / 2, "Manuscript from bioRxiv"), (right + after.width / 2, "rxiv2pdf output")):
+        draw.text((centre, PAD + LABEL / 2 - 4), label, font=font, fill=INK, anchor="mm")
+    x0, x1, mid = PAD + stack_w + 18, right - 18, top + after.height // 2
+    draw.line((x0, mid, x1 - 16, mid), fill=INK, width=6)
+    draw.polygon([(x1, mid), (x1 - 22, mid - 15), (x1 - 22, mid + 15)], fill=INK)
+    return sheet
+
+
 def main() -> None:
     outdir = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "docs" / "screenshots"
     outdir.mkdir(parents=True, exist_ok=True)
-    result = fetch(resolve(DOI), client=Client())
+    client = Client()
+    result = fetch(resolve(DOI), client=client)
     article = parse_jats(result.xml_path.read_bytes(), meta=result.manifest)
     args = (article, result.manifest, result.version_dir)
 
-    page1, _, figure = key_pages("default", PAGE_PPI, *args)
-    save(framed(page1), outdir / "page1.png")
-    save(framed(figure), outdir / "figure-page.png")
+    page1 = key_pages("default", PAGE_PPI, *args)[0]
+    original, _ = fetch_original_pdf(result.resolved, client=client)  # the authors' PDF, cached
+    manuscript = pdf_pages(original, STACK, page1.height - (STACK - 1) * STACK_STEP[1])
+    save(before_after(manuscript, page1), outdir / "before-after.png")
     save(theme_sheet({theme: key_pages(theme, SHEET_PPI, *args) for theme in THEMES}), outdir / "themes.png")
 
 
