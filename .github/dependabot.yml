@@ -1,0 +1,11 @@
+# Keeps the GitHub Actions in .github/workflows/ up to date (setup-uv is pinned to an exact
+# version, as it no longer publishes major tags). One grouped PR a month.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      actions:
+        patterns: ["*"]
