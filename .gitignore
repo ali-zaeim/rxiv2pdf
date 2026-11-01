@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Tool caches 
+.pytest_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# rxiv2pdf output when run from the repository root
+/*.pdf
+/*-supplements/
+/*-typst-debug/
+
+# scripts/preview.py default output
+/previews/

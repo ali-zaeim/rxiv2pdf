@@ -1,0 +1,3311 @@
+{
+ "abstract": [
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Pertussis has resurged in the post-COVID-19 era, yet diagnostic delay remains a barrier to timely treatment and transmission interruption, particularly among adults.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Background",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Retrospective observational cohort study of 787 patients with confirmed pertussis from January 2016 through March 2026 across two South Carolina health systems. Electronic health record data from the 60 days preceding confirmation were used to characterize diagnostic timing (same-day vs. delayed), delay duration, and respiratory pathogen testing patterns including pertussis test modality.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Methods",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Adults accounted for 48.4% of cases (median age 16 years [IQR 4–52]; 61.6% female). Same-day diagnosis was highest among children aged 1–4 years (75.4%) and lowest among adults aged 50 and older (approximately 50%). Among the 305 patients (38.8%) with delayed diagnosis, median delay ranged from 7–12 days in children to 22.5–26.5 days in adults aged 50 and older. Delay did not vary significantly by COVID-19 period, race, ethnicity, or insurance type. Testing breadth was greater in inpatient and emergency settings than outpatient. Pertussis testing was predominantly PCR-based in children but serologic in adults, potentially reflecting later clinical presentation relative to illness onset; however, the near-absence of PCR testing in older adults may contribute to missed diagnoses during the early illness window when PCR sensitivity is highest.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Results",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Older adults experienced markedly delayed pertussis diagnoses compared with children. Earlier consideration of pertussis in adults with prolonged cough, including PCR testing early in illness before serologic conversion, may reduce diagnostic delay and facilitate timelier treatment and contact tracing.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Conclusions",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Among 787 confirmed pertussis patients across two health systems, adults aged 50 and older experienced diagnostic delays two to three times longer than children, likely driven by atypical symptom presentation and late-stage testing patterns that fall outside optimal diagnostic windows.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Summary",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  }
+ ],
+ "affiliations": [
+  {
+   "content": [
+    {
+     "text": "Department of Public Health Sciences, Clemson University, Clemson, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a1",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "Center for Public Health Modeling and Response, Clemson University, Clemson, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a2",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "Medical University of South Carolina, Charleston, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a3",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "University of South Carolina School of Medicine-Greenville, Greenville, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a4",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "Prisma Health-Upstate Children’s Hospital, Greenville, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a5",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "Prisma Health-Upstate, Greenville, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a6",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "Division of Infectious Diseases, Medical University of South Carolina, Charleston, SC, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a7",
+   "type": "Affiliation"
+  }
+ ],
+ "author_notes": [],
+ "authors": [
+  {
+   "aff_ids": [
+    "a1",
+    "a2"
+   ],
+   "collab": null,
+   "corresponding": true,
+   "equal_contrib": false,
+   "given": "Emily A.",
+   "note_marks": [],
+   "orcid": "0000-0002-1128-0154",
+   "surname": "Serman",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1",
+    "a2"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Iromi",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Jayawardena",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1",
+    "a3"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Carolina",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Liskey",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a4",
+    "a5"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Robin",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Lacroix",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a4",
+    "a6"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Alain H.",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Litwin",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a3"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Jihad S.",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Obeid",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a7"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Scott R.",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Curry",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1",
+    "a2"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Lior",
+   "note_marks": [],
+   "orcid": "0000-0001-5275-7273",
+   "surname": "Rennert",
+   "type": "Author"
+  }
+ ],
+ "back": [
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Data are not publicly available due to PHI and IRB restrictions.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": "data-availability",
+   "title": [
+    {
+     "text": "Data Availability",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "ES, IJ, LR, AL, CL, SC, JO supported by a grant (NU38FT000011) from the Center for Forecasting and Outbreak Analytics of the Centers for Disease Control and Prevention. ES, IJ, LR, AL also supported by a grant (R01LM014193) from the National Library of Medicine of the National Institutes of Health. The funders were not involved in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or decision to submit the manuscript for publication.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s5",
+   "kind": null,
+   "title": [
+    {
+     "text": "Funding Support",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "The authors disclose no conflicts of interest.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s6",
+   "kind": null,
+   "title": [
+    {
+     "text": "Conflicts of Interest",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Data are not publicly available due to PHI and IRB restrictions.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s7",
+   "kind": null,
+   "title": [
+    {
+     "text": "Data sharing statement",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [],
+   "id": null,
+   "kind": "ack",
+   "title": [
+    {
+     "text": "Acknowledgments",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Emily Serman (Conceptualization, Formal Analysis, Methodology, Investigation, Writing – original draft, Writing – review and editing), Iromi Jayawardena (Data curation, Formal Analysis, Investigation, Writing – review and editing), Carolina Liskey (Data Curation), Robin LaCroix (Methodology, Writing – review and editing), Alain Litwin (Methodology, Writing – review and editing), Jihad Obeid (Writing – review and editing), Scott Curry (Writing – review and editing), Lior Rennert (Methodology, Supervision, Funding acquisition, Writing – review and editing)",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s8",
+   "kind": null,
+   "title": [
+    {
+     "text": "Author Contributions",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Claude Sonnet 5 (Anthropic) was used to assist with editing manuscript text and troubleshooting statistical code. The authors reviewed, verified, and take full responsibility for the integrity, accuracy, and content of all text in the final manuscript.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s9",
+   "kind": null,
+   "title": [
+    {
+     "text": "AI Statement",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Yes",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "The details of the IRB/oversight body that provided approval or exemption for the research described are given below:",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "The Institutional Review Board of Clemson University gave ethical approval for this work (IRB2024-0015).",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Yes",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Yes",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "I have followed all appropriate research reporting guidelines, such as any relevant EQUATOR Network research reporting checklist(s) and other pertinent material, if applicable.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Yes",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": "disclosures",
+   "title": [
+    {
+     "text": "Author Declarations",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "ref_ids": [
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5",
+    "c6",
+    "c7",
+    "c8",
+    "c9",
+    "c10",
+    "c11",
+    "c12",
+    "c13",
+    "c14",
+    "c15",
+    "c16",
+    "c17",
+    "c18",
+    "c19",
+    "c20",
+    "c21",
+    "c22",
+    "c23",
+    "c24",
+    "c25"
+   ],
+   "title": [
+    {
+     "text": "Citations",
+     "type": "Text"
+    }
+   ],
+   "type": "ReferenceListMarker"
+  }
+ ],
+ "body": [
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Bordetella pertussis, the causative agent of pertussis (whooping cough), produces a characteristic paroxysmal cough that in infants and young children is often accompanied by an inspiratory whoop",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c1"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Pertussis follows a defined three-stage clinical course − catarrhal, paroxysmal, and convalescent − each lasting one to two weeks, with the catarrhal phase most closely resembling other common upper respiratory illnesses and therefore most vulnerable to diagnostic error",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c1",
+        "c2"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". The disease has long been recognized as a leading cause of vaccine-preventable mortality in children under one year of age",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c1"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": "; however, clinical presentation varies substantially across the lifespan. While young children may present with classic paroxysmal cough, cyanosis, and post-tussive emesis, infants, older children and adults frequently exhibit attenuated or atypical symptoms that often do not prompt immediate clinical suspicion for pertussis",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". As one of the most contagious respiratory pathogens, with attack rates of approximately 90% in household contacts and 50–80% in classroom settings",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c6"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", delayed or missed pertussis diagnosis carries significant implications for transmission and patient outcomes.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Timely diagnosis is critical on two fronts: antibiotic treatment is most effective when initiated during the catarrhal phase within the first one to two weeks of symptom onset",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c2"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", and rapid identification enables isolation and contact prophylaxis to interrupt transmission",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c7"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". This urgency has intensified in the post-COVID-19 era. After a sharp pandemic-era decline, attributed to non-pharmaceutical interventions and reduced healthcare utilization, pertussis has resurged globally",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", with U.S. cases increasing five-fold in 2024 compared to 2023 and prompting state health alerts",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c6",
+        "c14",
+        "c15"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". This resurgence is compounded by declining childhood vaccination rates and geographic clustering of vaccine exemptions",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c6",
+        "c16",
+        "c17"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", and further complicated by the overlapping respiratory symptom profiles of COVID-19 and pertussis, which may distort clinical recognition and extend delays beyond pre-pandemic estimates.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Prior research has documented diagnostic delays across age groups. Most notably, Evans et al. (2023), in the largest study of pertussis diagnostic delay to date using insurance claims data from over 20,000 patients, found that delays occurred in 29.7–37.6% of cases, with duration increasing considerably with age − from an average of 5.6 days in patients under two years to 13.8 days in adults",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c18"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". However, existing literature is limited in several respects. Many prior studies focus narrowly on pediatric populations, and even those spanning the full age spectrum do not separate infants from toddlers aged one to four despite well-documented differences in clinical presentation between these groups and the potential implications for diagnostic recognition",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c2"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Furthermore, diagnostic testing patterns, including testing breadth and laboratory modality, have not, to our knowledge, been characterized in prior work, despite their potential to illuminate why delays occur. Finally, no study to our knowledge has characterized how diagnostic delay has changed across the pre- and post-COVID-19 periods, when both case burden and clinical context have shifted considerably.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "This study examines patterns of diagnostic delay in pertussis across two health systems, characterizing prior healthcare encounters, diagnostic misattribution, testing patterns, and time- to-diagnosis by age group, sex, race and ethnicity, insurance type, and epidemiological period.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s1",
+   "kind": null,
+   "title": [
+    {
+     "text": "Introduction",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "This study used Electronic Health Record (EHR) data from two of South Carolina’s largest health systems: a large community-based health system covering approximately 1.4 million patients annually across a 26-county service area, and a statewide academic medical center serving 46 counties with approximately 3.21 million patient encounters annually. These health systems are hereafter referred to as Health System A and Health System B. De-identified data were extracted from the EHR, including inpatient, emergency department, and outpatient encounter records, diagnosis codes, admission and discharge dates, and laboratory results. This study was approved by the Institutional Review Board at Clemson University (IRB2024-0015).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2a",
+     "kind": null,
+     "title": [
+      {
+       "text": "a. ",
+       "type": "Text"
+      },
+      {
+       "text": "Data",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "This was a retrospective observational study conducted across two health systems in South Carolina spanning the period January 2016 through March 2026. Individuals with pertussis were defined as those with a pertussis-specific International Classification of Diseases, Tenth Revision (ICD-10) diagnosis code (e",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Table 1",
+           "type": "Text"
+          }
+         ],
+         "kind": "table",
+         "target": "tbl1",
+         "type": "XRef"
+        },
+        {
+         "text": ") or a positive laboratory test for Bordetella pertussis, including PCR or serologic testing (IgG, IgA, or IgM). For each patient, we examined respiratory-related healthcare encounters within a 60-day window preceding the index pertussis date, selected to capture the typical duration of symptomatic pertussis from catarrhal presentation through diagnosis.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [],
+       "footer": [],
+       "graphics": [
+        "26364016v1_tbl1",
+        "26364016v1_tbl1a"
+       ],
+       "has_xml_table": false,
+       "id": "tbl1",
+       "label": "Table 1",
+       "table": null,
+       "title": [
+        {
+         "text": "Demographic and clinical characteristics of the study cohort by health system.",
+         "type": "Text"
+        }
+       ],
+       "type": "TableBlock"
+      }
+     ],
+     "id": "s2b",
+     "kind": null,
+     "title": [
+      {
+       "text": "b. ",
+       "type": "Text"
+      },
+      {
+       "text": "Study Design",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Patients were classified as having a same-day diagnosis if their index pertussis date coincided with their first respiratory-related healthcare encounter within the 60-day lookback window, where respiratory-related encounters were defined using the ICD-10 code categories described in e",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Table 2",
+           "type": "Text"
+          }
+         ],
+         "kind": "table",
+         "target": "tbl2",
+         "type": "XRef"
+        },
+        {
+         "text": ". Patients were classified as having a delayed diagnosis if at least one respiratory-related healthcare encounter was identified prior to the index pertussis date within the 60-day window. For patients with delayed diagnoses, the duration of delay was defined as the number of days elapsed between the first qualifying prior encounter and the index pertussis date.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [],
+       "footer": [],
+       "graphics": [
+        "26364016v1_tbl2"
+       ],
+       "has_xml_table": false,
+       "id": "tbl2",
+       "label": "Table 2",
+       "table": null,
+       "title": [
+        {
+         "text": "Diagnostic delay rate and duration by age group and health system, based on a 60-day lookback window.",
+         "type": "Text"
+        }
+       ],
+       "type": "TableBlock"
+      }
+     ],
+     "id": "s2c",
+     "kind": null,
+     "title": [
+      {
+       "text": "c. ",
+       "type": "Text"
+      },
+      {
+       "text": "Classification of Diagnostic Timing",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Key demographic and clinical covariates were obtained from patient records within the EHR. Age was categorized into six groups: less than 1 year (infants), 1–4 years, 5–17 years, 18–49 years, 50–64 years, and 65 years and older. Sex was recorded as male or female. Race was categorized as White, Black, or Other. Ethnicity was categorized as Hispanic or Non-Hispanic. Insurance type was defined using payer information recorded at the index encounter, or nearest encounter if needed, and categorized as Commercial/Private, Medicaid, Medicare, or Self-Pay/Uninsured. Cases were additionally stratified by epidemiological period: pre-COVID-19 (2016–2019), COVID-19 period (2020–2023), and post-COVID-19 resurgence (2024–present). Laboratory testing data were extracted from EHR records within the lookback window. Respiratory pathogen testing breadth was quantified as the number of distinct pathogens tested per encounter. Pertussis-specific tests were classified by modality as PCR, Serology (IgG, IgA, or IgM), or Other (unspecified), based on laboratory order names. Testing patterns were examined by care setting, age group, and diagnostic timing.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2d",
+     "kind": null,
+     "title": [
+      {
+       "text": "d. ",
+       "type": "Text"
+      },
+      {
+       "text": "Covariates",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Differences in the proportion of patients with same-day versus delayed diagnosis across demographic and temporal subgroups were assessed using Pearson chi-square tests. Where the omnibus chi-square was significant, pairwise proportion tests were conducted with Bonferroni correction for multiple comparisons. Among patients with delayed diagnoses, differences in delay duration were assessed using Kruskal-Wallis rank sum tests given the right-skewed distribution of delay times, with Dunn’s post-hoc test applied for pairwise comparisons where the omnibus test was significant. As a complementary multivariable approach, we fit a discrete-time complementary log-log hazard model to estimate the adjusted hazard of same-day diagnosis, with each patient’s follow-up divided into person-day observations up to a 60-day horizon (with the diagnosis day counted as day 0). Baseline hazard was modeled using six time bands (day 0; days 1-2; 3-7; 8-14; 15-30; and 31-59) to allow flexible, non-linear variation in diagnostic hazard over time. The model included age group, sex, race, ethnicity, insurance type, health system, and epidemiological period as covariates, with hazard ratios (HRs) and 95% confidence intervals obtained by exponentiating model coefficients. All analyses were conducted in R (version 4.5.1). Statistical significance was defined as p < 0.05.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2e",
+     "kind": null,
+     "title": [
+      {
+       "text": "e. ",
+       "type": "Text"
+      },
+      {
+       "text": "Statistical Analysis",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    }
+   ],
+   "id": "s2",
+   "kind": null,
+   "title": [
+    {
+     "text": "Methods",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Of 787 patients with confirmed pertussis from 2016 through March 2026, 305 were from Health System A and 482 from Health System B (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Table 1",
+           "type": "Text"
+          }
+         ],
+         "kind": "table",
+         "target": "tbl1",
+         "type": "XRef"
+        },
+        {
+         "text": "). The two systems were comparable in age, sex, race, ethnicity, and COVID-19 period (all p>0.05) but differed significantly in insurance mix (p<0.001), with Health System A serving more commercially insured patients (50.5% vs. 24.3%) and Health System B serving more self-pay/uninsured patients (39.6% vs. 4.6%). The proportion of delayed diagnoses was higher at Health System A than Health System B (44.3% vs. 35.3%; p=0.013), though delay duration was comparable across sites (Wilcoxon p=0.176). The primary age-related gradient in diagnostic delay was consistent across both systems; combined analysis is therefore presented as primary, with system-stratified results in ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Table 2",
+           "type": "Text"
+          }
+         ],
+         "kind": "table",
+         "target": "tbl2",
+         "type": "XRef"
+        },
+        {
+         "text": ".",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s3a",
+     "kind": null,
+     "title": [
+      {
+       "text": "a. ",
+       "type": "Text"
+      },
+      {
+       "text": "Overview",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "The proportion of same-day versus delayed diagnoses differed significantly across age groups (χ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "2",
+           "type": "Text"
+          }
+         ],
+         "style": "sup",
+         "type": "Styled"
+        },
+        {
+         "text": "(5) = 23.6, p<0.001). The 1–4 year age group had the highest same-day diagnosis rate at 75.4%, while adults aged 50-64 and 65+ had the lowest with both around 50%. Pairwise comparisons confirmed significant differences between the 1–4 group and both the 50–64 group (p = 0.002) and the 65+ group (p = 0.001) after Bonferroni correction. ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Table 2",
+           "type": "Text"
+          }
+         ],
+         "kind": "table",
+         "target": "tbl2",
+         "type": "XRef"
+        },
+        {
+         "text": " presents the full diagnostic timing summary by age group and health system. Delayed-diagnosis rates did not differ significantly across the epidemiological periods overall (chi-square p=0.242), though rates among adults aged 50 and older remained persistently elevated across all three periods (eTable 3).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s3b",
+     "kind": null,
+     "title": [
+      {
+       "text": "b. ",
+       "type": "Text"
+      },
+      {
+       "text": "Same-Day vs. Delayed Diagnosis",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Among the 305 patients with delayed diagnoses, the duration of delay differed significantly across age groups (Kruskal-Wallis H=14.7, df=5, p=0.012). Median delay was shortest among children aged 1–4 years and 5–17 years (7 and 12 days, respectively) and longest among adults aged 50–64 years and 65+ (26.5 and 22.5 days), with adults aged 18–49 showing an intermediate delay of 20.5 days (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Table 2",
+           "type": "Text"
+          }
+         ],
+         "kind": "table",
+         "target": "tbl2",
+         "type": "XRef"
+        },
+        {
+         "text": "). Infants showed a median delay of approximately 11 days. No individual pairwise comparison reached significance after Bonferroni correction, consistent with a broad age gradient rather than discrete group differences. Diagnostic timing differed by sex, with female patients having a higher proportion of delayed diagnoses than male patients (41.6% vs. 34.1%; chi-square p=0.042); however, the duration of delay did not differ significantly by sex (median 19 days females vs. 17 days males; Wilcoxon p=0.526). Diagnostic timing did not differ significantly by race, ethnicity, or insurance type (all chi-square p>0.05); delay duration was similarly non-significant across race (Kruskal-Wallis p=0.412) and ethnicity (Wilcoxon p=0.125); full descriptive statistics are provided in eTable 4. The Kruskal-Wallis test for delay duration by insurance type was significant (p=0.016), and Medicare patients showed a longer median delay than Medicaid patients (27.5 vs. 8.5 days; Dunn post-hoc p=0.007). Prior encounter diagnoses were predominantly respiratory across all age groups and consistent with established age-related presentation differences, with upper respiratory infection and cough predominating in young children and shortness of breath and pneumonia leading among adults 50 and older, likely contributing to the longer delays observed in this group (eTables 5 and 6). Age was a significant predictor of length of delay in the adjusted discrete-time hazard model (eTable 7); Sex, race, ethnicity, insurance type, and epidemiological period were not statistically significant predictors.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s3c",
+     "kind": null,
+     "title": [
+      {
+       "text": "c. ",
+       "type": "Text"
+      },
+      {
+       "text": "Duration of Diagnostic Delay",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Laboratory testing data were available for 589 of 787 cohort patients (74.8%); the remaining 198 patients (25.2%) had no laboratory testing documented, of whom 184 (92.9%) received a same-day pertussis diagnosis. Pathogens tested per encounter differed significantly by care setting (Kruskal-Wallis p<0.001), with all pairwise comparisons significant after Bonferroni correction. Inpatient encounters involved the broadest testing (mean 7.2 pathogens per encounter), followed by emergency department encounters (mean 5.6), and outpatient encounters (mean 4.0); consistent across both health systems (eTable 8).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Testing breadth also differed significantly by age group (Kruskal-Wallis p<0.001). Infants and children aged 1–4 were tested most broadly (mean 6.2 and 5.9, respectively), while adults aged 18–49 and 65+ were tested least (mean 3.4 and 3.5, respectively), a pattern that was most pronounced in the outpatient setting. Full age- and setting-stratified data are presented in eTables 9 and 10.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Testing breadth did not differ significantly between same-day and delayed patients overall or within either health system individually (all p>0.05), suggesting that testing breadth alone does not determine diagnostic timing (eTable 11). However, diagnostic timing differed significantly by care setting at the index encounter (χ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "2",
+           "type": "Text"
+          }
+         ],
+         "style": "sup",
+         "type": "Styled"
+        },
+        {
+         "text": "(2)=34.7, p<0.001): delayed diagnosis was most common when the index encounter occurred in the outpatient setting (41.9%) and least common in the emergency department (15.6%) (eTables 12 and 13).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s3d",
+     "kind": null,
+     "title": [
+      {
+       "text": "e. ",
+       "type": "Text"
+      },
+      {
+       "text": "Respiratory Pathogen Testing Patterns",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Pertussis test type varied by age group (eTable 14). PCR predominated in infants and children aged 1–4 at both prior and index encounters (83.8% and 72.4% of tests at index, respectively). In adults, serologic testing (IgG, IgA, IgM) comprised over 90% of pertussis tests at index encounters, with PCR representing only 5–8%, a pattern present at prior encounters as well. Children aged 5–17 showed a notable shift between prior and index encounters, with PCR increasing from 22.7% to 47.9% and IgG falling from 38.9% to 25.4% (eTable 14).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s3e",
+     "kind": null,
+     "title": [
+      {
+       "text": "f. ",
+       "type": "Text"
+      },
+      {
+       "text": "Pertussis-specific Testing Patterns",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    }
+   ],
+   "id": "s3",
+   "kind": null,
+   "title": [
+    {
+     "text": "Results",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "This study examined patterns of pertussis diagnostic delay across two health systems in South Carolina over a ten-year period spanning the pre- and post-COVID-19 eras, finding significant age-related differences in both the rate and duration of diagnostic delay. Same-day diagnosis was most common among children aged 1–4 years (75.4%), somewhat higher than infants under 1 year (63.6%), and least common among adults 50 and older, nearly half of whom had at least one prior healthcare encounter before pertussis was identified. These findings extend and refine prior work by Evans et al.",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c18"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": " in several ways: by distinguishing infants from toddlers rather than combining them into a single under-two-years category, by characterizing diagnostic testing patterns not examined in that analysis, and by examining how these patterns were affected by the COVID-19 pandemic, a period not captured in Evans et al.’s claims data.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Differing clinical presentation across the age spectrum is well documented and likely a major contributor to diagnostic delay. While young children typically present with classic pertussis features (paroxysmal cough, inspiratory whoop, post-tussive emesis) that are readily recognized, older adults more often present with prolonged subacute cough easily misattributed to bronchitis or other respiratory illness, contributing to diagnostic delay and underdiagnosis in adults",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c18",
+        "c19",
+        "c20"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Our prior encounter data reflect this pattern (eTable 5): acute upper respiratory infection dominated pre-diagnosis encounters in young children, while cough and shortness of breath predominated among adults, underscoring how nonspecific symptoms can obscure recognition until later in the clinical course.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "The age-stratified testing patterns add a further dimension to this clinical picture, an aspect not examined by Evans et al.",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c18"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", whose risk-factor analysis focused on encounter type and prior antibiotic use rather than diagnostic test selection. PCR predominance in young children, even before diagnosis, reflects providers appropriately pursuing molecular testing in patients with classic early presentations. In contrast, the near-exclusive reliance on serology in adults, present even at pre-diagnosis encounters, suggests that pertussis is not consistently in the differential when providers first evaluate these patients. This distinction carries direct clinical consequences: PCR sensitivity declines substantially after the first two weeks of illness, while serologic IgG responses require two to three weeks to become reliably detectable, creating a diagnostic dead zone in which neither test performs optimally, potentially contributing to the longer delays observed in older adults. By comparison, the shift in children aged 5–17, where PCR use nearly doubled between prior and index encounters, suggests that a deliberate change in testing approach was what ultimately led to diagnosis in this group rather than incidental detection through routine panels.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "The adult burden of pertussis in our cohort challenges the persistent perception of pertussis as primarily a pediatric disease. Adults accounted for 48.4% of total cases across both health systems. Delayed diagnosis rates among adults aged 50 and older remained persistently elevated across all three epidemiological periods, suggesting diagnostic challenges predate the pandemic and have not improved during the current resurgence. This pattern is consistent with the global epidemiological shift toward older age groups documented in the post-pandemic resurgence literature",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", and may reflect waning vaccine-derived immunity, as protection from acellular pertussis vaccines has been shown to decline substantially within three to five years of the last dose and may provide little protection beyond seven years",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c21",
+        "c22",
+        "c23"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", compounded by widely acknowledged under-recognition by healthcare professionals of pertussis in older cohorts",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c20"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". The convergence of a susceptible pediatric population and an underrecognized adult reservoir creates a concerning transmission dynamic: delayed adult diagnosis extends the window of unrecognized infectiousness during which household and community spread can occur",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c7"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ".",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Several limitations warrant consideration. First, our lookback approach relies on the presence of respiratory-coded encounters in the EHR prior to the index pertussis date, and some of these encounters may reflect coincidental healthcare utilization rather than true missed diagnostic opportunities. While we applied a 60-day lookback window to minimize this concern, residual misclassification remains possible, particularly in older adults and patients with comorbid respiratory conditions who have higher baseline healthcare utilization. Serologic IgG testing may also yield false positive results in recently vaccinated individuals potentially contributing to misclassification of diagnosis timing in a small number of cases. Finally, neither health system operates as a closed, integrated system; care received elsewhere may not be fully captured in the EHR, meaning prior respiratory encounters outside these systems would not be identified, potentially leading to underestimation of diagnostic delay.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "These findings have direct actionable implications. Broadening the differential diagnosis for persistent cough in adults to include pertussis, particularly during periods of elevated community circulation, represents a low-cost intervention with meaningful potential to reduce transmission",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c19"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Clinicians should also weigh the timing-dependent sensitivity of available tests: prompt molecular testing at first presentation, rather than defaulting to serologic panels, could meaningfully reduce diagnostic delay in adults. The structured EHR-based prior-encounter data documented here may also serve as a substrate for future clinical decision-support tools that flag at-risk patients before confirmation, building on proof-of-concept work showing that machine learning models can support pertussis diagnosis and surveillance",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c24",
+        "c25"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Ultimately, the progressive, cross-site age gradient in diagnostic delay identifies adults 50 and older as a high-priority target for clinical awareness initiatives as pertussis reestablishes endemic circulation in the current resurgence.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s4",
+   "kind": null,
+   "title": [
+    {
+     "text": "Discussion",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "caption": [],
+     "href": "supplements/364016_file03.docx",
+     "id": "DC1",
+     "label": "Supplemental Materials",
+     "type": "Supplement"
+    }
+   ],
+   "id": null,
+   "kind": "supplementary-material",
+   "title": [
+    {
+     "text": "Supporting information",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  }
+ ],
+ "category": null,
+ "cite_mode": "numeric",
+ "corrections": [],
+ "corresp": [
+  [
+   {
+    "children": [
+     {
+      "text": "Corresponding author:",
+      "type": "Text"
+     }
+    ],
+    "style": "bold",
+    "type": "Styled"
+   },
+   {
+    "text": " Emily A. Serman, Ph.D., ",
+    "type": "Text"
+   },
+   {
+    "children": [
+     {
+      "text": "eserman@clemson.edu",
+      "type": "Text"
+     }
+    ],
+    "type": "Link",
+    "url": "mailto:eserman@clemson.edu"
+   }
+  ]
+ ],
+ "doi": "10.64898/2026.09.25.26364016",
+ "equal_contrib_note": null,
+ "keywords": [
+  "Consumer engagement",
+  "Precision medicine",
+  "Delphi study"
+ ],
+ "license_code": null,
+ "license_text": [
+  {
+   "text": "This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at ",
+   "type": "Text"
+  },
+  {
+   "children": [
+    {
+     "text": "http://creativecommons.org/licenses/by/4.0/",
+     "type": "Text"
+    }
+   ],
+   "type": "Link",
+   "url": "http://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "license_url": "http://creativecommons.org/licenses/by/4.0/",
+ "posted": null,
+ "references": [
+  {
+   "citation_type": "web",
+   "content": [
+    {
+     "text": "Centers for Disease Control and Prevention. ",
+     "type": "Text"
+    },
+    {
+     "text": "About Whooping Cough. ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "https://www.cdc.gov/pertussis/about/index.html",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://www.cdc.gov/pertussis/about/index.html"
+    }
+   ],
+   "doi": null,
+   "id": "c1",
+   "kind": "mixed",
+   "label": "1.",
+   "number": 1,
+   "pmid": null,
+   "type": "Reference",
+   "url": "https://www.cdc.gov/pertussis/about/index.html"
+  },
+  {
+   "citation_type": "web",
+   "content": [
+    {
+     "text": "Centers for Disease Control and Prevention. ",
+     "type": "Text"
+    },
+    {
+     "text": "Clinical Features of Pertussis. ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "https://www.cdc.gov/pertussis/hcp/clinical-signs/index.html",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://www.cdc.gov/pertussis/hcp/clinical-signs/index.html"
+    }
+   ],
+   "doi": null,
+   "id": "c2",
+   "kind": "mixed",
+   "label": "2.",
+   "number": 2,
+   "pmid": null,
+   "type": "Reference",
+   "url": "https://www.cdc.gov/pertussis/hcp/clinical-signs/index.html"
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Cornia ",
+     "type": "Text"
+    },
+    {
+     "text": "PB, ",
+     "type": "Text"
+    },
+    {
+     "text": "Hersh ",
+     "type": "Text"
+    },
+    {
+     "text": "AL, ",
+     "type": "Text"
+    },
+    {
+     "text": "Lipsky ",
+     "type": "Text"
+    },
+    {
+     "text": "BA, ",
+     "type": "Text"
+    },
+    {
+     "text": "Newman ",
+     "type": "Text"
+    },
+    {
+     "text": "TB, ",
+     "type": "Text"
+    },
+    {
+     "text": "Gonzales ",
+     "type": "Text"
+    },
+    {
+     "text": "R. ",
+     "type": "Text"
+    },
+    {
+     "text": "Does this coughing adolescent or adult patient have pertussis? ",
+     "type": "Text"
+    },
+    {
+     "text": "JAMA. ",
+     "type": "Text"
+    },
+    {
+     "text": "2010;",
+     "type": "Text"
+    },
+    {
+     "text": "304(",
+     "type": "Text"
+    },
+    {
+     "text": "8):",
+     "type": "Text"
+    },
+    {
+     "text": "890–",
+     "type": "Text"
+    },
+    {
+     "text": "896. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1001/jama.2010.1181",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1001/jama.2010.1181"
+    }
+   ],
+   "doi": "10.1001/jama.2010.1181",
+   "id": "c3",
+   "kind": "mixed",
+   "label": "3.",
+   "number": 3,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Hernandez ",
+     "type": "Text"
+    },
+    {
+     "text": "A, ",
+     "type": "Text"
+    },
+    {
+     "text": "Ambroise ",
+     "type": "Text"
+    },
+    {
+     "text": "JP, ",
+     "type": "Text"
+    },
+    {
+     "text": "Hernandez-Puga ",
+     "type": "Text"
+    },
+    {
+     "text": "AM. ",
+     "type": "Text"
+    },
+    {
+     "text": "Pertussis in infancy: a case of delayed diagnosis. ",
+     "type": "Text"
+    },
+    {
+     "text": "Cureus. ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. PMC",
+     "type": "Text"
+    },
+    {
+     "text": "12521777",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c4",
+   "kind": "mixed",
+   "label": "4.",
+   "number": 4,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Taylor ",
+     "type": "Text"
+    },
+    {
+     "text": "ZW, ",
+     "type": "Text"
+    },
+    {
+     "text": "Ackerson ",
+     "type": "Text"
+    },
+    {
+     "text": "B, ",
+     "type": "Text"
+    },
+    {
+     "text": "Bronstein ",
+     "type": "Text"
+    },
+    {
+     "text": "DE, ",
+     "type": "Text"
+    },
+    {
+     "text": "Lewis ",
+     "type": "Text"
+    },
+    {
+     "text": "K, ",
+     "type": "Text"
+    },
+    {
+     "text": "Steinberg ",
+     "type": "Text"
+    },
+    {
+     "text": "E, ",
+     "type": "Text"
+    },
+    {
+     "text": "Stone ",
+     "type": "Text"
+    },
+    {
+     "text": "MM, ",
+     "type": "Text"
+    },
+    {
+     "text": "Viraraghavan ",
+     "type": "Text"
+    },
+    {
+     "text": "R, ",
+     "type": "Text"
+    },
+    {
+     "text": "Wong ",
+     "type": "Text"
+    },
+    {
+     "text": "VK, ",
+     "type": "Text"
+    },
+    {
+     "text": "Salzman ",
+     "type": "Text"
+    },
+    {
+     "text": "MB. ",
+     "type": "Text"
+    },
+    {
+     "text": "Wheezing in children with pertussis associated with delayed pertussis diagnosis. ",
+     "type": "Text"
+    },
+    {
+     "text": "Pediatr Infect Dis J. ",
+     "type": "Text"
+    },
+    {
+     "text": "2014;",
+     "type": "Text"
+    },
+    {
+     "text": "33(",
+     "type": "Text"
+    },
+    {
+     "text": "4):",
+     "type": "Text"
+    },
+    {
+     "text": "351–",
+     "type": "Text"
+    },
+    {
+     "text": "354. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1097/INF.0000000000000176",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1097/INF.0000000000000176"
+    }
+   ],
+   "doi": "10.1097/INF.0000000000000176",
+   "id": "c5",
+   "kind": "mixed",
+   "label": "5.",
+   "number": 5,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gorringe ",
+     "type": "Text"
+    },
+    {
+     "text": "A, ",
+     "type": "Text"
+    },
+    {
+     "text": "Cavell ",
+     "type": "Text"
+    },
+    {
+     "text": "B, ",
+     "type": "Text"
+    },
+    {
+     "text": "Beard ",
+     "type": "Text"
+    },
+    {
+     "text": "F, ",
+     "type": "Text"
+    },
+    {
+     "text": "et al. ",
+     "type": "Text"
+    },
+    {
+     "text": "Global incidence of pertussis after the COVID-19 pandemic. ",
+     "type": "Text"
+    },
+    {
+     "text": "JAMA Netw Open. ",
+     "type": "Text"
+    },
+    {
+     "text": "2025;",
+     "type": "Text"
+    },
+    {
+     "text": "8(",
+     "type": "Text"
+    },
+    {
+     "text": "12):",
+     "type": "Text"
+    },
+    {
+     "text": "e2545963. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1001/jamanetworkopen.2025.45963",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2025.45963"
+    }
+   ],
+   "doi": "10.1001/jamanetworkopen.2025.45963",
+   "id": "c6",
+   "kind": "mixed",
+   "label": "6.",
+   "number": 6,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Smout ",
+     "type": "Text"
+    },
+    {
+     "text": "E, ",
+     "type": "Text"
+    },
+    {
+     "text": "Mellon ",
+     "type": "Text"
+    },
+    {
+     "text": "D, ",
+     "type": "Text"
+    },
+    {
+     "text": "Rae ",
+     "type": "Text"
+    },
+    {
+     "text": "M. ",
+     "type": "Text"
+    },
+    {
+     "text": "Whooping cough rises sharply in UK and Europe. ",
+     "type": "Text"
+    },
+    {
+     "text": "BMJ. ",
+     "type": "Text"
+    },
+    {
+     "text": "2024;",
+     "type": "Text"
+    },
+    {
+     "text": "385:",
+     "type": "Text"
+    },
+    {
+     "text": "q736. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1136/bmj.q736",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1136/bmj.q736"
+    }
+   ],
+   "doi": "10.1136/bmj.q736",
+   "id": "c7",
+   "kind": "mixed",
+   "label": "7.",
+   "number": 7,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wang ",
+     "type": "Text"
+    },
+    {
+     "text": "S, ",
+     "type": "Text"
+    },
+    {
+     "text": "Zhang ",
+     "type": "Text"
+    },
+    {
+     "text": "S, ",
+     "type": "Text"
+    },
+    {
+     "text": "Liu ",
+     "type": "Text"
+    },
+    {
+     "text": "J. ",
+     "type": "Text"
+    },
+    {
+     "text": "Resurgence of pertussis: epidemiological trends, contributing factors, challenges, and recommendations for vaccination and surveillance. ",
+     "type": "Text"
+    },
+    {
+     "text": "Hum Vaccin Immunother. ",
+     "type": "Text"
+    },
+    {
+     "text": "2025;",
+     "type": "Text"
+    },
+    {
+     "text": "21(",
+     "type": "Text"
+    },
+    {
+     "text": "1):",
+     "type": "Text"
+    },
+    {
+     "text": "2513729. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1080/21645515.2025.2513729",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1080/21645515.2025.2513729"
+    }
+   ],
+   "doi": "10.1080/21645515.2025.2513729",
+   "id": "c8",
+   "kind": "mixed",
+   "label": "8.",
+   "number": 8,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Vargas-Zambrano ",
+     "type": "Text"
+    },
+    {
+     "text": "JC, ",
+     "type": "Text"
+    },
+    {
+     "text": "Abrudan ",
+     "type": "Text"
+    },
+    {
+     "text": "S, ",
+     "type": "Text"
+    },
+    {
+     "text": "Macina ",
+     "type": "Text"
+    },
+    {
+     "text": "D. ",
+     "type": "Text"
+    },
+    {
+     "text": "Understanding the epidemiology and contributing factors of post-COVID-19 pertussis outbreaks: a narrative review. ",
+     "type": "Text"
+    },
+    {
+     "text": "Infect Dis Ther. ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1007/s40121-025-01277-1",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1007/s40121-025-01277-1"
+    }
+   ],
+   "doi": "10.1007/s40121-025-01277-1",
+   "id": "c9",
+   "kind": "mixed",
+   "label": "9.",
+   "number": 9,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Locht ",
+     "type": "Text"
+    },
+    {
+     "text": "C. ",
+     "type": "Text"
+    },
+    {
+     "text": "Pertussis before, during and after COVID-19. ",
+     "type": "Text"
+    },
+    {
+     "text": "EMBO Mol Med. ",
+     "type": "Text"
+    },
+    {
+     "text": "2025;",
+     "type": "Text"
+    },
+    {
+     "text": "17:",
+     "type": "Text"
+    },
+    {
+     "text": "594– ",
+     "type": "Text"
+    },
+    {
+     "text": "598. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1038/s44321-025-00199-2",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1038/s44321-025-00199-2"
+    }
+   ],
+   "doi": "10.1038/s44321-025-00199-2",
+   "id": "c10",
+   "kind": "mixed",
+   "label": "10.",
+   "number": 10,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "web",
+   "content": [
+    {
+     "text": "Texas Department of State Health Services. ",
+     "type": "Text"
+    },
+    {
+     "text": "Health Alert: Increase in Pertussis Cases in Texas. ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "https://www.dshs.texas.gov/news-alerts/health-alert-increase-pertussis-cases-texas",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://www.dshs.texas.gov/news-alerts/health-alert-increase-pertussis-cases-texas"
+    }
+   ],
+   "doi": null,
+   "id": "c11",
+   "kind": "mixed",
+   "label": "11.",
+   "number": 11,
+   "pmid": null,
+   "type": "Reference",
+   "url": "https://www.dshs.texas.gov/news-alerts/health-alert-increase-pertussis-cases-texas"
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Abboud ",
+     "type": "Text"
+    },
+    {
+     "text": "F, ",
+     "type": "Text"
+    },
+    {
+     "text": "Desai ",
+     "type": "Text"
+    },
+    {
+     "text": "S, ",
+     "type": "Text"
+    },
+    {
+     "text": "Clark ",
+     "type": "Text"
+    },
+    {
+     "text": "P. ",
+     "type": "Text"
+    },
+    {
+     "text": "The 2024 pertussis outbreaks in the United States: a call for increased public health preparedness. ",
+     "type": "Text"
+    },
+    {
+     "text": "J Healthc Ethics Admin. ",
+     "type": "Text"
+    },
+    {
+     "text": "2026;",
+     "type": "Text"
+    },
+    {
+     "text": "12(",
+     "type": "Text"
+    },
+    {
+     "text": "1). doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.22461/jhea.6.7166",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.22461/jhea.6.7166"
+    }
+   ],
+   "doi": "10.22461/jhea.6.7166",
+   "id": "c12",
+   "kind": "mixed",
+   "label": "12.",
+   "number": 12,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Dyer ",
+     "type": "Text"
+    },
+    {
+     "text": "O. ",
+     "type": "Text"
+    },
+    {
+     "text": "Whooping cough: cases soar in US. ",
+     "type": "Text"
+    },
+    {
+     "text": "BMJ. ",
+     "type": "Text"
+    },
+    {
+     "text": "2024;",
+     "type": "Text"
+    },
+    {
+     "text": "389:",
+     "type": "Text"
+    },
+    {
+     "text": "r704. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1136/bmj.r704",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1136/bmj.r704"
+    }
+   ],
+   "doi": "10.1136/bmj.r704",
+   "id": "c13",
+   "kind": "mixed",
+   "label": "13.",
+   "number": 13,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "web",
+   "content": [
+    {
+     "text": "Centers for Disease Control and Prevention. ",
+     "type": "Text"
+    },
+    {
+     "text": "Pertussis Surveillance and Trends. ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "https://www.cdc.gov/pertussis/php/surveillance/index.html",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://www.cdc.gov/pertussis/php/surveillance/index.html"
+    }
+   ],
+   "doi": null,
+   "id": "c14",
+   "kind": "mixed",
+   "label": "14.",
+   "number": 14,
+   "pmid": null,
+   "type": "Reference",
+   "url": "https://www.cdc.gov/pertussis/php/surveillance/index.html"
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Omer ",
+     "type": "Text"
+    },
+    {
+     "text": "SB, ",
+     "type": "Text"
+    },
+    {
+     "text": "Enger ",
+     "type": "Text"
+    },
+    {
+     "text": "KS, ",
+     "type": "Text"
+    },
+    {
+     "text": "Moulton ",
+     "type": "Text"
+    },
+    {
+     "text": "LH, ",
+     "type": "Text"
+    },
+    {
+     "text": "Halsey ",
+     "type": "Text"
+    },
+    {
+     "text": "NA, ",
+     "type": "Text"
+    },
+    {
+     "text": "Stokley ",
+     "type": "Text"
+    },
+    {
+     "text": "S, ",
+     "type": "Text"
+    },
+    {
+     "text": "Salmon ",
+     "type": "Text"
+    },
+    {
+     "text": "DA. ",
+     "type": "Text"
+    },
+    {
+     "text": "Geographic clustering of nonmedical exemptions to school immunization requirements and associations with geographic clustering of pertussis. ",
+     "type": "Text"
+    },
+    {
+     "text": "Am J Epidemiol. ",
+     "type": "Text"
+    },
+    {
+     "text": "2008;",
+     "type": "Text"
+    },
+    {
+     "text": "168(",
+     "type": "Text"
+    },
+    {
+     "text": "12):",
+     "type": "Text"
+    },
+    {
+     "text": "1389–",
+     "type": "Text"
+    },
+    {
+     "text": "1396. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1093/aje/kwn263",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1093/aje/kwn263"
+    }
+   ],
+   "doi": "10.1093/aje/kwn263",
+   "id": "c15",
+   "kind": "mixed",
+   "label": "15.",
+   "number": 15,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Phadke ",
+     "type": "Text"
+    },
+    {
+     "text": "VK, ",
+     "type": "Text"
+    },
+    {
+     "text": "Bednarczyk ",
+     "type": "Text"
+    },
+    {
+     "text": "RA, ",
+     "type": "Text"
+    },
+    {
+     "text": "Salmon ",
+     "type": "Text"
+    },
+    {
+     "text": "DA, ",
+     "type": "Text"
+    },
+    {
+     "text": "Omer ",
+     "type": "Text"
+    },
+    {
+     "text": "SB. ",
+     "type": "Text"
+    },
+    {
+     "text": "Association between vaccine refusal and vaccine-preventable diseases in the United States: a review of measles and pertussis. ",
+     "type": "Text"
+    },
+    {
+     "text": "JAMA. ",
+     "type": "Text"
+    },
+    {
+     "text": "2016;",
+     "type": "Text"
+    },
+    {
+     "text": "315(",
+     "type": "Text"
+    },
+    {
+     "text": "11):",
+     "type": "Text"
+    },
+    {
+     "text": "1149–",
+     "type": "Text"
+    },
+    {
+     "text": "1158. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1001/jama.2016.1353",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1001/jama.2016.1353"
+    }
+   ],
+   "doi": "10.1001/jama.2016.1353",
+   "id": "c16",
+   "kind": "mixed",
+   "label": "16.",
+   "number": 16,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Arakkal ",
+     "type": "Text"
+    },
+    {
+     "text": "AT, ",
+     "type": "Text"
+    },
+    {
+     "text": "Cavanaugh ",
+     "type": "Text"
+    },
+    {
+     "text": "JE, ",
+     "type": "Text"
+    },
+    {
+     "text": "Polgreen ",
+     "type": "Text"
+    },
+    {
+     "text": "PM, ",
+     "type": "Text"
+    },
+    {
+     "text": "Miller ",
+     "type": "Text"
+    },
+    {
+     "text": "AC. ",
+     "type": "Text"
+    },
+    {
+     "text": "The increase in household transmission of pertussis associated with diagnostic delays. ",
+     "type": "Text"
+    },
+    {
+     "text": "Pediatr Infect Dis J. ",
+     "type": "Text"
+    },
+    {
+     "text": "2024;",
+     "type": "Text"
+    },
+    {
+     "text": "43(",
+     "type": "Text"
+    },
+    {
+     "text": "7):",
+     "type": "Text"
+    },
+    {
+     "text": "614–",
+     "type": "Text"
+    },
+    {
+     "text": "619. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1097/INF.0000000000004302",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1097/INF.0000000000004302"
+    }
+   ],
+   "doi": "10.1097/INF.0000000000004302",
+   "id": "c17",
+   "kind": "mixed",
+   "label": "17.",
+   "number": 17,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Evans ",
+     "type": "Text"
+    },
+    {
+     "text": "NJ, ",
+     "type": "Text"
+    },
+    {
+     "text": "Arakkal ",
+     "type": "Text"
+    },
+    {
+     "text": "AT, ",
+     "type": "Text"
+    },
+    {
+     "text": "Cavanaugh ",
+     "type": "Text"
+    },
+    {
+     "text": "JE, ",
+     "type": "Text"
+    },
+    {
+     "text": "Newland ",
+     "type": "Text"
+    },
+    {
+     "text": "JG, ",
+     "type": "Text"
+    },
+    {
+     "text": "Polgreen ",
+     "type": "Text"
+    },
+    {
+     "text": "PM, ",
+     "type": "Text"
+    },
+    {
+     "text": "Miller ",
+     "type": "Text"
+    },
+    {
+     "text": "AC. ",
+     "type": "Text"
+    },
+    {
+     "text": "The incidence, duration, risk factors, and age-based variation of missed opportunities to diagnose pertussis: a population-based cohort study. ",
+     "type": "Text"
+    },
+    {
+     "text": "Infect Control Hosp Epidemiol. ",
+     "type": "Text"
+    },
+    {
+     "text": "2023;",
+     "type": "Text"
+    },
+    {
+     "text": "44(",
+     "type": "Text"
+    },
+    {
+     "text": "10):",
+     "type": "Text"
+    },
+    {
+     "text": "1629–",
+     "type": "Text"
+    },
+    {
+     "text": "1636. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1017/ice.2023.31",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1017/ice.2023.31"
+    }
+   ],
+   "doi": "10.1017/ice.2023.31",
+   "id": "c18",
+   "kind": "mixed",
+   "label": "18.",
+   "number": 18,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Mooi ",
+     "type": "Text"
+    },
+    {
+     "text": "FR, ",
+     "type": "Text"
+    },
+    {
+     "text": "Van Der Maas ",
+     "type": "Text"
+    },
+    {
+     "text": "NAT, ",
+     "type": "Text"
+    },
+    {
+     "text": "De Melker ",
+     "type": "Text"
+    },
+    {
+     "text": "HE. ",
+     "type": "Text"
+    },
+    {
+     "text": "Pertussis resurgence: waning immunity and pathogen adaptation — two sides of the same coin. ",
+     "type": "Text"
+    },
+    {
+     "text": "Epidemiol Infect. ",
+     "type": "Text"
+    },
+    {
+     "text": "2014;",
+     "type": "Text"
+    },
+    {
+     "text": "142(",
+     "type": "Text"
+    },
+    {
+     "text": "4):",
+     "type": "Text"
+    },
+    {
+     "text": "685–",
+     "type": "Text"
+    },
+    {
+     "text": "694. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1017/S0950268813000071",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1017/S0950268813000071"
+    }
+   ],
+   "doi": "10.1017/S0950268813000071",
+   "id": "c19",
+   "kind": "mixed",
+   "label": "19.",
+   "number": 19,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Moore ",
+     "type": "Text"
+    },
+    {
+     "text": "A, ",
+     "type": "Text"
+    },
+    {
+     "text": "et al. ",
+     "type": "Text"
+    },
+    {
+     "text": "Prevalence, diagnosis, and disease course of pertussis in adults with acute cough: a prospective, observational study in primary care. ",
+     "type": "Text"
+    },
+    {
+     "text": "Br J Gen Pract. ",
+     "type": "Text"
+    },
+    {
+     "text": "2015. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.3399/bjgp15X687349",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.3399/bjgp15X687349"
+    }
+   ],
+   "doi": "10.3399/bjgp15X687349",
+   "id": "c20",
+   "kind": "mixed",
+   "label": "20.",
+   "number": 20,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Schwartz ",
+     "type": "Text"
+    },
+    {
+     "text": "KL, ",
+     "type": "Text"
+    },
+    {
+     "text": "et al. ",
+     "type": "Text"
+    },
+    {
+     "text": "Effectiveness of pertussis vaccination and duration of immunity. ",
+     "type": "Text"
+    },
+    {
+     "text": "CMAJ. ",
+     "type": "Text"
+    },
+    {
+     "text": "2016;",
+     "type": "Text"
+    },
+    {
+     "text": "188(",
+     "type": "Text"
+    },
+    {
+     "text": "16):",
+     "type": "Text"
+    },
+    {
+     "text": "E399–",
+     "type": "Text"
+    },
+    {
+     "text": "E406. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1503/cmaj.160193",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1503/cmaj.160193"
+    }
+   ],
+   "doi": "10.1503/cmaj.160193",
+   "id": "c21",
+   "kind": "mixed",
+   "label": "21.",
+   "number": 21,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Klein ",
+     "type": "Text"
+    },
+    {
+     "text": "NP, ",
+     "type": "Text"
+    },
+    {
+     "text": "Bartlett ",
+     "type": "Text"
+    },
+    {
+     "text": "J, ",
+     "type": "Text"
+    },
+    {
+     "text": "Fireman ",
+     "type": "Text"
+    },
+    {
+     "text": "B, ",
+     "type": "Text"
+    },
+    {
+     "text": "Baxter ",
+     "type": "Text"
+    },
+    {
+     "text": "R. ",
+     "type": "Text"
+    },
+    {
+     "text": "Waning protection after fifth dose of acellular pertussis vaccine in children. ",
+     "type": "Text"
+    },
+    {
+     "text": "N Engl J Med. ",
+     "type": "Text"
+    },
+    {
+     "text": "2012;",
+     "type": "Text"
+    },
+    {
+     "text": "367(",
+     "type": "Text"
+    },
+    {
+     "text": "11):",
+     "type": "Text"
+    },
+    {
+     "text": "1012–",
+     "type": "Text"
+    },
+    {
+     "text": "1019. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1056/NEJMoa1200850",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1056/NEJMoa1200850"
+    }
+   ],
+   "doi": "10.1056/NEJMoa1200850",
+   "id": "c22",
+   "kind": "mixed",
+   "label": "22.",
+   "number": 22,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "MacIntyre ",
+     "type": "Text"
+    },
+    {
+     "text": "CR, ",
+     "type": "Text"
+    },
+    {
+     "text": "Correia de Sousa ",
+     "type": "Text"
+    },
+    {
+     "text": "J, ",
+     "type": "Text"
+    },
+    {
+     "text": "Heininger ",
+     "type": "Text"
+    },
+    {
+     "text": "U, ",
+     "type": "Text"
+    },
+    {
+     "text": "et al. ",
+     "type": "Text"
+    },
+    {
+     "text": "Public health management of pertussis in adults: practical challenges and future strategies. ",
+     "type": "Text"
+    },
+    {
+     "text": "Hum Vaccin Immunother. ",
+     "type": "Text"
+    },
+    {
+     "text": "2024;",
+     "type": "Text"
+    },
+    {
+     "text": "20(",
+     "type": "Text"
+    },
+    {
+     "text": "1):",
+     "type": "Text"
+    },
+    {
+     "text": "2377904. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1080/21645515.2024.2377904",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1080/21645515.2024.2377904"
+    }
+   ],
+   "doi": "10.1080/21645515.2024.2377904",
+   "id": "c23",
+   "kind": "mixed",
+   "label": "23.",
+   "number": 23,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Mc Cord–De Iaco ",
+     "type": "Text"
+    },
+    {
+     "text": "KA, ",
+     "type": "Text"
+    },
+    {
+     "text": "Gesualdo ",
+     "type": "Text"
+    },
+    {
+     "text": "F, ",
+     "type": "Text"
+    },
+    {
+     "text": "Pandolfi ",
+     "type": "Text"
+    },
+    {
+     "text": "E, ",
+     "type": "Text"
+    },
+    {
+     "text": "Croci ",
+     "type": "Text"
+    },
+    {
+     "text": "I, ",
+     "type": "Text"
+    },
+    {
+     "text": "Tozzi ",
+     "type": "Text"
+    },
+    {
+     "text": "AE. ",
+     "type": "Text"
+    },
+    {
+     "text": "Machine learning clinical decision support systems for surveillance: a case study on pertussis and RSV in children. ",
+     "type": "Text"
+    },
+    {
+     "text": "Front Pediatr. ",
+     "type": "Text"
+    },
+    {
+     "text": "2023;",
+     "type": "Text"
+    },
+    {
+     "text": "11:",
+     "type": "Text"
+    },
+    {
+     "text": "1112074. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.3389/fped.2023.1112074",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.3389/fped.2023.1112074"
+    }
+   ],
+   "doi": "10.3389/fped.2023.1112074",
+   "id": "c24",
+   "kind": "mixed",
+   "label": "24.",
+   "number": 24,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Xie ",
+     "type": "Text"
+    },
+    {
+     "text": "J, ",
+     "type": "Text"
+    },
+    {
+     "text": "Ma ",
+     "type": "Text"
+    },
+    {
+     "text": "R, ",
+     "type": "Text"
+    },
+    {
+     "text": "Feng ",
+     "type": "Text"
+    },
+    {
+     "text": "Y, ",
+     "type": "Text"
+    },
+    {
+     "text": "Qiao ",
+     "type": "Text"
+    },
+    {
+     "text": "Y, ",
+     "type": "Text"
+    },
+    {
+     "text": "Zhu ",
+     "type": "Text"
+    },
+    {
+     "text": "H, ",
+     "type": "Text"
+    },
+    {
+     "text": "Tao ",
+     "type": "Text"
+    },
+    {
+     "text": "X, ",
+     "type": "Text"
+    },
+    {
+     "text": "Chen ",
+     "type": "Text"
+    },
+    {
+     "text": "W, ",
+     "type": "Text"
+    },
+    {
+     "text": "Liu ",
+     "type": "Text"
+    },
+    {
+     "text": "C, ",
+     "type": "Text"
+    },
+    {
+     "text": "Li ",
+     "type": "Text"
+    },
+    {
+     "text": "T, ",
+     "type": "Text"
+    },
+    {
+     "text": "Liu ",
+     "type": "Text"
+    },
+    {
+     "text": "K, ",
+     "type": "Text"
+    },
+    {
+     "text": "Cheng ",
+     "type": "Text"
+    },
+    {
+     "text": "L. ",
+     "type": "Text"
+    },
+    {
+     "text": "Machine learning-based risk prediction model for pertussis in children: a multicenter retrospective study. ",
+     "type": "Text"
+    },
+    {
+     "text": "BMC Infect Dis. ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. PMC",
+     "type": "Text"
+    },
+    {
+     "text": "11951648. doi:",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "10.1186/s12879-025-10797-7",
+       "type": "Text"
+      }
+     ],
+     "type": "Link",
+     "url": "https://doi.org/10.1186/s12879-025-10797-7"
+    }
+   ],
+   "doi": "10.1186/s12879-025-10797-7",
+   "id": "c25",
+   "kind": "mixed",
+   "label": "25.",
+   "number": 25,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  }
+ ],
+ "server": null,
+ "source_numbered": true,
+ "title": [
+  {
+   "text": "Age-Stratified Patterns of Diagnostic Delay in Pertussis",
+   "type": "Text"
+  }
+ ],
+ "type": "Article",
+ "version": null,
+ "warnings": [],
+ "withdrawn": null
+}

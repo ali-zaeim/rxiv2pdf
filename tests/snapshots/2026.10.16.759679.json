@@ -1,0 +1,8155 @@
+{
+ "abstract": [
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "The development of β-amyloid (Aβ) pathology in Alzheimer’s disease (AD) is accompanied by profound changes in astrocytes and microglia and associated neuroinflammation. Soluble epoxide hydrolase (sEH), which degrades anti-inflammatory epoxyeicosatrienoic acids (EETs), is elevated in the AD brain, yet how EETs restrain inflammation remains poorly understood.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Background",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "We performed single-nucleus RNA sequencing (snRNA-seq) on brains from wild-type, sEH knockout, 5xFAD, and 5xFAD; sEH knockout mice, and used primary mouse microglia and human induced pluripotent stem cell (iPSC)-derived microglia to define the underlying mechanism. To test cell-type-specific contributions, we generated astrocyte- and endothelial-specific she knockout mice and crossed them with 5xFAD mice.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Methods",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Genetic disruption of sEH in 5xFAD mice markedly reduced the abundance of a type I interferon (IFN)-responsive microglial subcluster and lowered phospho-STING (pSTING) levels. In primary microglia, supplementation with 11,12-EET attenuated STING activation and IFN target gene expression; blocking lysosomal acidification abolished this effect and caused pSTING to accumulate, identifying lysosomal degradation as a critical route for terminating STING signaling. 11,12-EET also enhanced microglial lysosomal acidification and Aβ phagocytosis. Astrocytic, but not endothelial, disruption of sEH recapitulated the reductions in Aβ pathology and microglial STING activation seen in global sEH-deficient mice, identifying astrocytes as the major cellular source of EETs regulating this pathway.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Results",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "We define an astrocyte–microglia axis in which astrocytic sEH limits EET availability and thereby sustains microglial STING signaling. By promoting lysosomal clearance of pSTING, EETs suppress type I IFN signaling and enhance microglial Aβ clearance, highlighting sEH inhibition as a therapeutic strategy targeting both neuroinflammation and lysosomal dysfunction in AD.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": null,
+   "title": [
+    {
+     "text": "Conclusion",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  }
+ ],
+ "affiliations": [
+  {
+   "content": [
+    {
+     "text": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a1",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "National Institute of Environmental Health Sciences, National Institutes of Health, Research Triangle Park, North Carolina, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a2",
+   "type": "Affiliation"
+  },
+  {
+   "content": [
+    {
+     "text": "Department of Neuroscience, Baylor College of Medicine, Houston, Texas, ",
+     "type": "Text"
+    },
+    {
+     "text": "USA",
+     "type": "Text"
+    }
+   ],
+   "id": "a3",
+   "type": "Affiliation"
+  }
+ ],
+ "author_notes": [],
+ "authors": [
+  {
+   "aff_ids": [
+    "a1"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Baijayanti",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Ghosh",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Shuo",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Wang",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Chuangye",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Qi",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Anamitra",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Ghosh",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Michele",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Comerota",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Chetan Singh",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Rajpurohit",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a2"
+   ],
+   "collab": null,
+   "corresponding": false,
+   "equal_contrib": false,
+   "given": "Darryl C.",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Zeldin",
+   "type": "Author"
+  },
+  {
+   "aff_ids": [
+    "a1",
+    "a3"
+   ],
+   "collab": null,
+   "corresponding": true,
+   "equal_contrib": false,
+   "given": "Hui",
+   "note_marks": [],
+   "orcid": null,
+   "surname": "Zheng",
+   "type": "Author"
+  }
+ ],
+ "back": [
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "We thank Brittany Reeves and Haiying Liu for expert technical assistance, Yanyan Qi and Hongjie Li for snRNA-seq experiment, Xinlong Luo for meta data submission, and members of the Zheng lab for valuable comments and suggestions. We are grateful to Dr. Artiom Gruzdev of the NIEHS GEMM core facility for making the ",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "Ephx2",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " floxed mice.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": null,
+   "kind": "ack",
+   "title": [
+    {
+     "text": "Acknowledgements",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "BG and HZ designed the overall study; BG performed major biological experiments with support from CSR on iPSC cultures, SW for immuno staining; CQ assisted with the snRNA-seq analysis; AG and MC performed initial analysis on germline sEH knockout mice; DCZ developed and provided the ",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "Ephx2",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " floxed mice. All authors provided input, read, and approved the manuscript.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s7",
+   "kind": null,
+   "title": [
+    {
+     "text": "Author Contributions",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "This work was supported by grants from the NIH (R01 NS093652, R01 AG020670, P01 AG066606, and R01 AG088197 to HZ), Cure Alzheimer Fund (to HZ), and by the Intramural Program of the NIH, National Institute of Environmental Health Sciences (Z01 ES025034 to DCZ).",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s8",
+   "kind": null,
+   "title": [
+    {
+     "text": "Funding",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Raw snRNA-seq data have been deposited at NCBI GEO with the accession number: GSE351037 and are publicly available as of the date of publication. No original codes were generated in this study. Any additional materials or datasets used in the current study are available from the corresponding author on reasonable request.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s9",
+   "kind": null,
+   "title": [
+    {
+     "text": "Availability of data and materials",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "All animal procedures were performed in accordance with NIH guidelines and with the approval of the Baylor College of Medicine Institutional Animal Care and Use Committee prior to all animal-related studies (IACUC protocol # AN-1853).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s10a",
+     "kind": null,
+     "title": [
+      {
+       "text": "Ethics approval and consent to participate",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "All authors have approved the contents of this manuscript and provided consent for publication.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s10b",
+     "kind": null,
+     "title": [
+      {
+       "text": "Consent for publication",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "HZ is a member of the Scientific Advisory Board of the Tau Consortium, Rainwater Charitable Foundation. The other authors declare no competing financial interests.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s10c",
+     "kind": null,
+     "title": [
+      {
+       "text": "Competing interests",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    }
+   ],
+   "id": "s10",
+   "kind": null,
+   "title": [
+    {
+     "text": "Declarations",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "ref_ids": [
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5",
+    "c6",
+    "c7",
+    "c8",
+    "c9",
+    "c10",
+    "c11",
+    "c12",
+    "c13",
+    "c14",
+    "c15",
+    "c16",
+    "c17",
+    "c18",
+    "c19",
+    "c20",
+    "c21",
+    "c22",
+    "c23",
+    "c24",
+    "c25",
+    "c26",
+    "c27",
+    "c28",
+    "c29",
+    "c30",
+    "c31",
+    "c32",
+    "c33",
+    "c34",
+    "c35",
+    "c36",
+    "c37",
+    "c38",
+    "c39",
+    "c40",
+    "c41",
+    "c42",
+    "c43",
+    "c44",
+    "c45",
+    "c46",
+    "c47",
+    "c48",
+    "c49",
+    "c50",
+    "c51",
+    "c52",
+    "c53",
+    "c54",
+    "c55",
+    "c56",
+    "c57",
+    "c58",
+    "c59",
+    "c60",
+    "c61",
+    "c62",
+    "c63"
+   ],
+   "title": [
+    {
+     "text": "References",
+     "type": "Text"
+    }
+   ],
+   "type": "ReferenceListMarker"
+  },
+  {
+   "blocks": [
+    {
+     "items": [
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Amyloid-beta",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "Aβ",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Alzheimer’s disease",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "AD",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Alexa Fluor 488",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "AF488",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Astrocyte-specific knockout",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "AKO",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Bafilomycin A1",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "BAF",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Blood-brain barrier",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "BBB",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Cluster of Differentiation 200",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "CD200",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Cyclic GMP-AMP synthase",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "cGAS",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "C-X3-C motif chemokine ligand 1 (Fractalkine)",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "CX3CL1",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Disease-associated microglia",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "DAM",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Dihydroxyeicosatrienoic acid",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "DHET",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "5,6-Dimethylxanthenone-4-acetic acid",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "DMXAA",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Dye-quenched bovine serum albumin",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "DQ-BSA",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Epoxyeicosatrienoic acid",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "EET",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Endothelial-specific knockout",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "EKO",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Endosomal Sorting Complex Required for Transport",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "ESCRT",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Glial fibrillary acidic protein",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "GFAP",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Gene Ontology",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "GO",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Hematopoietic progenitor cell",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "HPC",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Ionized calcium-binding adaptor molecule 1",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "IBA1",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Interferon",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "IFN",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Induced pluripotent stem cell-derived microglia-like cell",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "iMGL",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Induced pluripotent stem cell",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "iPSC",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Interferon-stimulated gene",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "ISG",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Lysosome-associated membrane protein 1",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "LAMP1",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Macrophage colony-stimulating factor",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "M-CSF",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Methoxy-X04",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "MetX04",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Oligodendrocyte precursor cell",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "OPC",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Phosphorylated signal transducer and activator of transcription 1",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "pSTAT1",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Phosphorylated stimulator of interferon genes",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "pSTING",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Quantitative polymerase chain reaction",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "qPCR",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "RNA sequencing",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "RNA-seq",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Single-Cell Regulatory Network Inference and Clustering",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "SCENIC",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Soluble epoxide hydrolase",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "sEH",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Single-nucleus RNA sequencing",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "snRNA-seq",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Signal transducer and activator of transcription 1",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "STAT1",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Stimulator of interferon genes",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "STING",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Transforming growth factor-beta 1",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "TGF-β1",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "1-Trifluoromethoxyphenyl-3-(1-propionylpiperidin-4-yl) urea",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "TPPU",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Uniform manifold approximation and projection",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "UMAP",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Wild type",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "WT",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      },
+      {
+       "definition": [
+        {
+         "content": [
+          {
+           "text": "Five familial Alzheimer’s disease transgenic mouse model",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "term": [
+        {
+         "text": "5XFAD (5X)",
+         "type": "Text"
+        }
+       ],
+       "type": "DefItem"
+      }
+     ],
+     "type": "DefList"
+    }
+   ],
+   "id": null,
+   "kind": "glossary",
+   "title": [
+    {
+     "text": "List of abbreviations",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  }
+ ],
+ "body": [
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Alzheimer’s disease (AD) is a progressive neurodegenerative disorder defined by extracellular amyloid-β (Aβ) plaques, intracellular tau tangles, synaptic failure, and neuronal loss. Although Aβ accumulation is a central pathological hallmark, growing evidence indicates that glial cells and innate immune responses critically shape disease trajectory",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Recent antibody-based trials targeting Aβ yielded only modest clinical benefit, underscoring the need for complementary strategies that address immune and inflammatory mechanisms operating within the diseased brain",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c5",
+        "c6",
+        "c7"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ".",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Microglia display marked phenotypic heterogeneity in AD, transitioning from homeostatic states toward transcriptionally distinct disease-associated microglia (DAM) and Type I interferon (IFN)–responsive states enriched around plaques",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c8",
+        "c9",
+        "c10"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Single-cell and single-nucleus RNA-sequencing studies have linked these states to aberrant lipid metabolism and lysosomal activity",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". IFN-responsive microglia in particular contribute to neuritic dystrophy, synapse loss, and cognitive impairment downstream of amyloid deposition, implicating their role in disease progression",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c14",
+        "c15"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ".",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "The cGAS–STING axis has emerged as a key regulator of neuroinflammatory tone in aging and neurodegeneration",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c16",
+        "c17",
+        "c18"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Aberrant STING activation in microglia promotes sustained Type I IFN production and neurotoxicity",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c19"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Termination of STING signaling requires its trafficking of STING to lysosomes, and disrupting lysosomal acidification or degradative capacity prolongs STING activation and inflammatory signaling",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c20",
+        "c21",
+        "c22",
+        "c23",
+        "c24"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". These findings position the lysosome as a critical checkpoint of STING signaling.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Soluble epoxide hydrolase (sEH, encoded by the ",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "Ephx2",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " gene) metabolizes epoxy-fatty acids, including epoxyeicosatrienoic acids (EETs), which exert anti-inflammatory and neuroprotective actions",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c25",
+        "c26",
+        "c27",
+        "c28"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". sEH is broadly expressed across peripheral tissues, including liver, kidney, and vasculature, where the EET-sEH axis regulates endothelial function, vascular homeostasis, and inflammatory responses",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c29",
+        "c30",
+        "c31",
+        "c32",
+        "c33",
+        "c34",
+        "c35"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Within the central nervous system, sEH is expressed in multiple cell types and is particularly enriched in astrocytes, in which its expression is increased in AD brain and in experimental amyloidosis",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c36"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Genetic or pharmacologic inhibition of sEH elevates endogenous EET levels, suppresses neuroinflammation, attenuates amyloid pathology, and improves synaptic and cognitive outcomes in AD mouse models",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c36",
+        "c37",
+        "c38"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". More recently, Wu et al. showed that an age-associated increase in hepatic sEH lowers circulating 11,12-EET levels and influences cerebral Aβ burden, tau pathology, and cognitive impairment, revealing a previously unrecognized liver-brain axis in AD pathogenesis",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c39"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Together, these studies establish sEH as a regulator of both peripheral and central mechanisms relevant to neurodegeneration.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Despite accumulating evidence for therapeutic benefits from sEH inhibition, the mechanisms linking sEH-EET signaling to glial immune state transitions remain incompletely understood. Herein, we investigated the sEH-EET axis in immune regulation and test the cell-type-specific contribution of sEH in 5XFAD mice. We find that sEH modulates glial immune states, lysosomal competence, and STING-IFN signaling, and we identify astrocytic, but not endothelial sEH as a key upstream regulator of these processes.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s1",
+   "kind": null,
+   "title": [
+    {
+     "text": "Introduction",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "The objective of this study was to determine how the soluble epoxide hydrolase (sEH)-epoxyeicosatrienoic acid (EET) signaling pathway regulates glial immune states, lysosomal competence, and amyloid pathology in Alzheimer’s disease. To address this question, we combined germline, astrocyte-specific, and endothelial-specific disruption of ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " with single-nucleus RNA sequencing, immunohistochemistry, biochemical analyses, behavioral testing, primary glial cultures, and human induced pluripotent stem cell (iPSC)-derived microglia-like cells (iMGLs). Pharmacological and biochemical approaches were used to investigate the effects of EET signaling on STING activation, lysosomal function, and Aβ processing.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Animals, cell cultures, imaging experiments, and quantitative analyses were randomized when appropriate and performed with investigators blinded to genotype and treatment group. Sample sizes for animal studies were determined based on previous studies and experience with the 5XFAD model",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c36"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". The exact number of animals used in each experiment is reported in the corresponding figure legends. Behavioral analyses are presented in the Supplementary Information. All in vitro experiments were performed using at least three biological replicates and were independently repeated at least twice. Additional experimental details are provided in the sections below and in the corresponding figure legends.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2a",
+     "kind": null,
+     "title": [
+      {
+       "text": "Study design",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "The 5XFAD mice (referred to as 5X in this study) were obtained from The Jackson Laboratory (JAX Strain# 034840). Global sEH knockout (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "-/-",
+             "type": "Text"
+            }
+           ],
+           "style": "sup",
+           "type": "Styled"
+          },
+          {
+           "text": ",",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " referred to as sEH KO in this study) mice were maintained on a C57BL/6J background and crossed with 5XFAD mice to generate 5X sEH KO animals. Conditional ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " floxed mice were generated as previously described by Bettaieb et al. and maintained on a C57BL/6J background",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c40"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "fl/fl",
+             "type": "Text"
+            }
+           ],
+           "style": "sup",
+           "type": "Styled"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " mice were crossed with GFAP-Cre mice (JAX strain# 24098) to generate astrocyte-specific knockout mice (referred to as sEH AKO in this study)",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c41"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": " and with Cdh5-Cre (JAX strain# 006137) mice to generate endothelial-specific knockout mice (referred to as sEH EKO in this study)",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c42"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". These lines were subsequently crossed with 5XFAD mice to generate astrocyte-specific sEH knockout (5X sEH AKO) and endothelial-specific sEH knockout (5X sEH EKO) experimental cohorts. Unless otherwise indicated, all experiments were performed in 6-month-old mice. Both male and female animals were used and were balanced across experimental groups. Mice were housed in a pathogen-free facility with ad libitum access to food and water under a 12-h light/dark cycle. All experimental procedures were approved by the Baylor College of Medicine Institutional Animal Care and Use Committee (IACUC) and conducted in accordance with NIH guidelines.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2b",
+     "kind": null,
+     "title": [
+      {
+       "text": "Mice",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Single-nucleus RNA sequencing (snRNA-seq) was performed as previously described",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c43"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Briefly, 6-month-old WT, sEH KO, 5XFAD, and 5XFAD sEH KO mice (2 males and 2 females per group) were transcardially perfused with ice-cold saline. Hippocampi were rapidly dissected, dissociated, and nuclei were isolated. Nuclei were stained with Hoechst-33342 and sorted using a SONY SH800 fluorescence-activated cell sorter. For each 10x Genomics run, 100,000–400,000 nuclei were collected, and 16,000 nuclei per channel were loaded into the 10x Chromium Controller.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "snRNA-seq libraries were generated using the 10x Genomics Chromium Single Cell 3′ v3.1 kit, following the manufacturer’s protocol. All PCR steps were performed on a Bio-Rad C1000 Touch Thermal Cycler equipped with a 96-Deep Well Reaction Module. Thirteen PCR cycles were used for cDNA amplification and sixteen cycles for sample index amplification. As recommended by 10x Genomics, 1:10 dilutions of amplified cDNA and final libraries were quality-controlled using a Bioanalyzer. Male and female samples were pooled and sequenced using 100-cycle run kits in a single-index configuration. Gene expression libraries were sequenced using paired-end 150-bp reads on an Illumina NovaSeq platform to achieve ∼60–70% sequencing saturation.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Raw sequencing data were demultiplexed using bcl2fastq, and gene expression libraries were processed using Cell Ranger (v7.1.0) with the mm10 reference genome. Ambient RNA contamination was estimated and removed using CellBender",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c44"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Doublets were identified using Scrublet",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c45"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": " applied to the filtered feature-barcode matrices generated by CellBender, and nuclei with doublet scores > 0.25 were excluded. Additional filtering was performed using Scanpy (v1.9.5)",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c46"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": " retaining nuclei with < 5% mitochondrial UMI content and > 200 detected genes.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Batch correction and low-dimensional embeddings were generated using single-cell variational inference (scVI)",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c47"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Major cell types and subclusters were annotated based on established marker genes. Spliced and unspliced transcript counts were obtained using velocyto (run10x) and were normalized and smoothed over 15 nearest neighbors using the filter_and_normalize and moments functions in scVelo",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c48",
+          "c49"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". RNA velocity, transition matrix estimation, and streamline visualization were performed using the velocity and velocity_embedding_stream functions with dynamical modeling. Normalized spliced and unspliced counts were used for pseudotime trajectory inference and visualization in UMAP space. Differential gene expression analysis between experimental groups and microglial subclusters was performed using the Wilcoxon rank-sum test implemented in the FindMarkers function",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c50"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Genes were considered differentially expressed if they met the following criteria: false discovery rate (FDR) < 0.05, average log2 fold change > 0.1, and expression in > 10% of cells in at least one group.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Single-cell regulatory network inference and clustering (SCENIC) analysis was performed using pySCENIC (v0.12.1) to infer transcription factor (TF)-target gene regulatory networks in microglia from snRNA-seq data. The analysis was conducted using the raw count matrix of microglial nuclei from all samples, together with the Mus musculus mm10 transcription start site (TSS)-centered ±10 kb regulatory databases available from the pySCENIC repository",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c51"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". The workflow consisted of three sequential steps. First, GRNBoost was used to infer TF-target gene co-expression modules and estimate the regulatory importance of candidate target genes. Second, RcisTarget was applied to identify enriched TF-binding motifs and refine the co-expression modules into regulons comprising TFs and their putative direct targets. Third, AUCell was used to quantify the activity of each regulon in individual cells based on the expression of its target genes. For visualization, mean regulon AUC scores were calculated for the relevant microglial populations, and TF-target regulatory networks (in IFN microglia) were drawn using NetworkX with its networkx.drawing.nx_agraph interface.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2c",
+     "kind": null,
+     "title": [
+      {
+       "text": "Single nucleus RNA-sequencing and data analysis",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Primary microglia cultures were prepared from postnatal day 1-3 mouse pups as described previously",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c52"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Cortices and hippocampi were dissected, minced, and enzymatically digested in 2.5% trypsin at 37 °C for 15 min. Tissue was then centrifuged, mechanically triturated, and resuspended in DMEM supplemented with 10% fetal bovine serum (FBS). Cells were plated onto poly-D-lysine (PDL)-coated T-75 flasks to establish mixed glial cultures. Cultures were maintained for two weeks, with medium replenished every other day.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Microglia were isolated from mixed glial cultures using CD11b magnetic microbead selection according to the manufacturer’s instructions (Miltenyi Biotec). Enriched microglia were plated onto PDL-coated 24-well plates in DMEM containing 10% FBS and 1% penicillin/streptomycin, supplemented with 10 ng/mL macrophage colony-stimulating factor (M-CSF). Cells were allowed to recover for 24-48 h prior to experimental treatments.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Microglia were treated with vehicle (DMSO) or 11,12-EET (10 µM) for 18 h. For Aβ42 phagocytosis assays, pHrodo™ Red-conjugated Aβ42 (500 ng/mL) was prepared following the manufacturer’s instructions (FUJIFILM Cellular Dynamics). Lyophilized peptide was dissolved in DMSO and added to the cultures for an additional 1 h. The peptide-containing medium was then removed and replaced with fresh medium, and cells were washed with PBS. One set of cultures was fixed after 1 hour in 4% paraformaldehyde to assess Aβ uptake, while the second set was incubated in fresh medium for an additional 24 h to evaluate Aβ clearance (Fig. S4). Images were acquired using a Leica STELLARIS confocal microscope with a 40× objective.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "To assess the effects of EET on STING activation, microglia were treated with 11,12-EET (10 μM; Cayman Chemical) 2 hours prior to adding the murine STING agonist DMXAA (10 μg/mL; Invivogen, treated for 4h). For lysosomal inhibition studies, cells were co-treated with bafilomycin A1 (BAF; 50 nM; Sigma-Aldrich) and DMXAA. Cells were harvested after 4 h of DMXAA, with or without BAF treatment, for immunofluorescence, immunoblot analyses and quantitative PCR analyses of interferon-stimulated genes (ISGs).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2d",
+     "kind": null,
+     "title": [
+      {
+       "text": "Primary microglia cultures and treatment",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Human induced pluripotent stem cell (iPSC)-derived microglia-like cells (iMGLs) were generated using a modified version of previously published protocols by Abud et al. and McQuade et al",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c53",
+          "c54"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Human iPSCs of early passage (male, GM23815, 196 iPSCs clone-13) were acquired from the Baylor College of Medicine (BCM) Stem Cell Core and cultured in Matrigel-coated dishes (Millipore Cat# CLS354234) in mTeSR Plus medium (Stem Cell Technologies Cat#100-0276). iPSCs were differentiated into hematopoietic progenitor cells (HPCs) using the STEMdiff™ Hematopoietic Kit (Stemcell Technologies) and CD43⁺ HPCs were isolated by fluorescence-activated cell sorting. HPCs were subsequently differentiated into microglia-like cells in serum-free DMEM/F12-based medium supplemented with IL-34 (100 ng/mL), TGF-β1 (50 ng/mL), and M-CSF (25 ng/mL). During the final maturation phase, cells were cultured in the presence of CD200 (100 ng/mL) and CX3CL1 (100 ng/mL) to promote acquisition of a mature microglial phenotype. Differentiation cultures were maintained for approximately 40 days, after which iMGLs were used for experiments. The differentiation protocol was adapted from previously published methods and optimized in-house as described by Abud et al. and McQuade et al",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c53",
+          "c54"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". For STING activation studies, iMGLs were treated with 11,12-EET (10 μM), bafilomycin A1 (100 nM), the human-selective STING agonist diABZI (1 μM, Selleck Chemicals); while EET was added 2h prior to diABZI treatment, Bafilomycin was added along with diABZI for all experiments. Cells were fixed after 4h of treatment of dIABZI for immunofluorescence analyses.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2e",
+     "kind": null,
+     "title": [
+      {
+       "text": "iMicroglia culture and treatment",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Cells or brain tissues were lysed in modified radioimmunoprecipitation assay (RIPA) buffer supplemented with protease and phosphatase inhibitor cocktails. Cell lysates were vortexed briefly following resuspension, whereas mouse brain tissues were homogenized, vortexed, and centrifuged at 14,000 × g for 45 min at 4°C, as previously described",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c36"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". Protein concentrations were determined using a bicinchoninic acid (BCA) assay (Thermo Fisher Scientific). Equal amounts of protein were resolved on 7.5–15% SDS–polyacrylamide gels (Bio-Rad) and transferred onto nitrocellulose membranes. Membranes were blocked with Tris-buffered saline (TBS) containing 5% bovine serum albumin (BSA) and subsequently incubated with primary antibodies followed by appropriate secondary antibodies. Immunoreactive bands were visualized and quantified using Bio-Rad Image Lab software, and protein levels were normalized to loading controls. Primary antibodies used for western blotting are listed in Supplemental Table 1.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2f",
+     "kind": null,
+     "title": [
+      {
+       "text": "Western blotting",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Total RNA was extracted from cultured cells or brain tissues using the RNeasy Mini Kit (Qiagen, 74106). Reverse transcription was performed using iScript Reverse Transcription Supermix (Bio-Rad, 1708840) to generate cDNA. Quantitative PCR was carried out using SYBR Green Master Mix (Bio-Rad) on a CFX384 Touch Real-Time PCR Detection System (Bio-Rad). Relative gene expression was calculated using the ΔΔCt method and normalized to the housekeeping gene ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Gapdh",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ". Primers used have been enlisted in Supplemental Table 2.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2g",
+     "kind": null,
+     "title": [
+      {
+       "text": "RNA extraction and expression analysis",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "For tissue staining, mice were deeply anesthetized and transcardially perfused with PBS, followed by fixation in 4% paraformaldehyde (PFA) overnight at 4 °C. Brains were cryoprotected in 30% sucrose in PBS, and coronal sections (30 µm) were cut using a Leica sliding microtome. Free-floating sections were blocked in 10% normal donkey serum in PBS containing 0.1% Triton X-100 for 1 h at room temperature, then incubated with primary antibodies diluted in blocking solution overnight at 4°C. Sections were washed and incubated with fluorescent secondary antibodies and DAPI in blocking buffer for 1 h at room temperature, followed by mounting with Fluoromount-G.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "For cultured cells, primary cultures grown on coverslips were fixed with 4% PFA for 20 min, permeabilized with 0.1% Triton X-100 in PBS for 5 min, and blocked in 4% normal donkey serum containing 0.01% Triton X-100 for 1 h at room temperature. Coverslips were incubated with primary antibodies diluted in blocking buffer overnight at 4°C, washed with PBS, and incubated with fluorescent secondary antibodies and DAPI for 1–1.5 h at room temperature. After final washes, coverslips were mounted onto glass slides using ProLong™ Gold antifade reagent. Primary antibodies used for immunofluorescence are enlisted in Supplemental Table 1.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2h",
+     "kind": null,
+     "title": [
+      {
+       "text": "Immunofluorescence staining",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "All image acquisition and quantification were performed with investigators blinded to genotype and treatment condition. Images within a given experiment were acquired using identical laser power, detector gain, offset, and exposure settings. Coronal brain sections (30 μm) and cultured cells were imaged using a Leica STELLARIS confocal microscope. For tissue analyses, confocal z-stacks spanning the entire thickness of each section were acquired at 1 μm intervals. Images were processed and analyzed using Fiji/ImageJ (NIH) and Imaris software (Bitplane, Oxford Instruments).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2i",
+     "kind": null,
+     "title": [
+      {
+       "text": "Image acquisition and analysis",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "For histological analyses, at least three anatomically matched hippocampal sections per animal were quantified and averaged to generate one biological replicate. Fluorescence-positive area (%) and mean fluorescence intensity were quantified in Fiji/ImageJ following background subtraction using identical thresholding parameters across all groups within an experiment.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Amyloid plaque burden was quantified in Imaris by generating three-dimensional plaque surfaces from Methoxy-X04-positive signals using the Surface module. Plaque number and plaque size were then calculated from the rendered surfaces.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "For analyses of plaque-associated microglia, Methoxy-X04-positive plaques and IBA1-positive microglia were rendered as three-dimensional surfaces and spots respectively in Imaris. Microglial spots located nearest to amyloid plaque surfaces (within 20μm) were identified using the Shortest Distance filter and selected for subsequent analyses.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "To assess pSTING and pSTAT1 localization within microglia, regions of interest (ROIs) were generated for IBA1-positive microglia and pSTING- or pSTAT1-positive signal. Colocalization analysis was performed using the Imaris Coloc module. Microglial STING and STAT1 activation were quantified as the percentage of ROI material colocalized (% ROI Material Colocalized) between IBA1 and pSTING or between IBA1 and pSTAT1, respectively. Identical thresholding and colocalization parameters were applied to all images within a given experiment.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2j",
+     "kind": null,
+     "title": [
+      {
+       "text": "Mouse brain",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "For primary microglia and iPSC-derived microglia-like cells (iMGLs), fluorescence intensity was quantified on a per-cell basis using Fiji/ImageJ after background subtraction. Multiple imaging fields were analyzed for each biological replicate and averaged prior to statistical analysis.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "For AF488 bead uptake, pHrodo-Aβ, DQ-BSA, and Aβ42 degradation assays, fluorescence intensity was quantified using Fiji/ImageJ. For pHrodo-Aβ assays, fluorescence intensity measured 1 h after addition of pHrodo-Aβ was used as an indicator of Aβ uptake and lysosomal delivery, whereas fluorescence intensity measured 24 h later was used as an assessment of intracellular Aβ retention and degradation. Data from multiple fields were averaged to generate a single biological replicate for statistical analysis.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s2k",
+     "kind": null,
+     "title": [
+      {
+       "text": "Cell culture",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    }
+   ],
+   "id": "s2",
+   "kind": null,
+   "title": [
+    {
+     "text": "Materials and methods",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "All statistical analyses were performed using GraphPad Prism (v10.4.1). Data are presented as mean ± SEM, with statistical significance defined as *",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "p",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " < 0.05, **",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "p",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " < 0.01, ***",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "p",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " < 0.001, and ****",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "p",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": " < 0.0001. For pairwise comparisons, Welch’s ",
+       "type": "Text"
+      },
+      {
+       "children": [
+        {
+         "text": "t",
+         "type": "Text"
+        }
+       ],
+       "style": "italic",
+       "type": "Styled"
+      },
+      {
+       "text": "-test was applied. Comparisons involving multiple groups were analyzed using ordinary one-way ANOVA or Welch’s ANOVA followed by Tukey’s post hoc test or Games-Howell test respectively. All samples and animals were included in the analyses unless otherwise stated.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s3",
+   "kind": null,
+   "title": [
+    {
+     "text": "Statistical analysis",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Previous studies demonstrated that inhibition of sEH confers anti-inflammatory effects in AD mouse models",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c36",
+          "c37"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". To define associated microglial transcriptional changes, we crossed the global ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " knockout mice (herein referred to as sEH KO) with 5XFAD mice. Consistent with pharmacological inhibition, genetic disruption of the ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " gene resulted in reduced Aβ plaques and reactive gliosis, diminished inflammatory cytokines and improved behavior (Supplementary Fig. S1). We performed single-nucleus RNA sequencing (snRNA-seq) on hippocampal tissue from WT, sEH KO, 5XFAD, and 5XFAD sEH KO mice. Following quality control and integration, unsupervised clustering of a total 76,119 nuclei identified major brain cell populations, including excitatory neurons, inhibitory neurons, astrocytes, oligodendrocytes, oligodendrocyte precursor cells, microglia, and vascular cells (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1A",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": "). Visualization by UMAP demonstrated clear segregation of these populations. Batch correction effectively integrated samples across genotypes and sex, as indicated by the even distribution of nuclei when categorized by genotype or sex (Fig. S2, A & B). Visualization of individual genotypes confirmed similar clustering patterns across WT, sEH KO, 5XFAD, and 5XFAD sEH KO samples (Fig. S2, C-F). Quantification of major cell-type proportions revealed no substantial differences between genotypes (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1B",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": "), indicating that germline sEH disruption does not grossly alter cellular composition in the hippocampus.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [
+        {
+         "content": [
+          {
+           "text": "(A) UMAP embedding of snRNA-seq data showing 76,119 cells from the mice hippocampus of four genotypes (WT, sEH KO, 5XFAD (5X), and 5XFAD sEH KO (5X sEH KO) at 6-month-old, annotated by cluster. (B) Bar chart representation of the proportion of different cell types identified in the snRNA-seq across different genotypes. (C) UMAP embedding of snRNA-seq data showing 7,839 microglial cells from the mice hippocampus of four genotypes at 6-month-old, annotated by microglial subtypes. HM: homeostatic microglia; IFN: interferon microglia; DAM: Disease-associated microglia. (D) Bar chart representation showing the proportion of microglial subtypes across different genotypes. (E) UMAP embedding of snRNA-seq data for microglial subtypes across different genotypes. (F) Volcano plot showing the differentially expressed genes for microglial cells in 5xFAD relative to WT mice. Upregulated genes are highlighted in red color. Downregulated genes are highlighted in blue color. (G) GO pathway enrichment for the upregulated genes for microglial cells in 5xFAD relative to WT mice. The enriched pathways are highlighted in orange color. (H) Volcano plot showing DEGs in microglia comparing 5XFAD sEH KO versus 5XFAD, with representative genes indicated. (I) GO enrichment analysis of genes downregulated in 5XFAD sEH KO relative to 5XFAD, showing top enriched biological processes ranked by −log₁₀ p value.",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "graphics": [
+        "759679v1_fig1"
+       ],
+       "id": "fig1",
+       "label": "Figure 1",
+       "supplementary": false,
+       "title": [
+        {
+         "text": "sEH deletion remodels microglial transcriptional states and suppresses interferon-associated gene programs.",
+         "type": "Text"
+        }
+       ],
+       "type": "Figure"
+      },
+      {
+       "content": [
+        {
+         "text": "We next focused on microglial populations, given their close association with plaque pathology. Reclustering of a total 7,839 microglial nuclei identified multiple transcriptionally distinct microglial subclusters (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1C",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": ", Fig. S2G), including homeostatic (HM), transitional, disease-associated (DAM), and interferon-responsive (IFN). Comparison of subcluster distributions across genotypes revealed an expansion of DAM and IFN microglial populations in 5XFAD mice, which was reduced in 5XFAD sEH KO mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2D",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": "). Consistently, UMAP visualization colored by genotype demonstrated an altered microglial state distribution in 5XFAD mice that was partially normalized by sEH loss (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1E",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [
+        {
+         "content": [
+          {
+           "text": "(A) UMAP of reclustered microglial nuclei identifying major microglial subclusters, including disease-associated microglia (DAM), interferon-responsive microglia (IFN), homeostatic microglia (HM), and transitional states. Feature plots show expression of interferon-associated transcription factors (",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Stat1",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ", ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Stat2",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ") and interferon-stimulated genes (",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Ifi204",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ", ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Ifi207",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ") overlaid on microglial subclusters. (B) Dot plot displaying the relative expression and fraction of cells expressing IFN-related transcription factors (",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Stat1",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ", ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Stat2",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ", ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Sp100",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ", ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Irf8",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ") across genotypes (WT, sEH KO, 5XFAD, and 5XFAD sEH KO). (C) SCENIC analysis of single-nucleus RNA-sequencing (snRNA-seq) data identified a microglial IFN-associated regulatory network centered on the transcription factors ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Stat1",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " and ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Stat2",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": ", with connections to multiple IFN-responsive and immune-related genes. The network illustrates the inferred regulatory relationships between these transcription factors and their potential target genes. (D) Representative hippocampal immunofluorescence images from 5XFAD (5X) and 5X sEH KO mice stained for Methoxy X04 (β-amyloid, blue), phosphorylated STAT1 (pSTAT1, green), and IBA1 (microglia, red), with merged panels shown. (E–F) Quantification showing (E) total pSTAT1-positive area and (F) percentage of pSTAT1 signal colocalized with microglia. Each symbol represents analysis per image from a total of 14 brain sections from 3 mice in 5X and 12 sections in 5X sEH KO. (G–M) qPCR analysis of inflammatory and interferon-stimulated gene expression in hippocampal tissue, including ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Il6",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (G), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Il1b",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (H), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Il1a",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (I), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Oas1",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (J), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Ifi27l2a",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (K), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Ifi204",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (L), and ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Cxcl10",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (M), across WT, sEH KO, 5XFAD, and 5XFAD sEH KO groups. Each point represents one mouse. Data are mean ± SEM. E&F: Welch’s ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "t",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": "-test; G-M: unpaired t-tests with Welch’s correction were performed to compare WT vs 5X and 5X vs. 5X sEH KO to accommodate the unequal sample sizes and unequal variances present between groups. *",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.05, **",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.01, ***",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.001, ****",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.0001. Scale bar: 25 µm.",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "graphics": [
+        "759679v1_fig2"
+       ],
+       "id": "fig2",
+       "label": "Figure 2",
+       "supplementary": false,
+       "title": [
+        {
+         "text": "sEH deletion suppresses interferon-responsive gene networks and STAT1 activation",
+         "type": "Text"
+        }
+       ],
+       "type": "Figure"
+      },
+      {
+       "content": [
+        {
+         "text": "To further characterize the relationships among microglial subclusters, we performed pseudotime trajectory analysis, which positioned HM at one end of the trajectory with DAM and IFN microglia occupying more distal states (Fig. S3A). RNA velocity analysis supported directional transcriptional progression from HM toward IFN states (Fig. S3B). Differential gene expression analysis comparing microglia from 5XFAD versus WT mice identified robust induction of inflammatory and immune-associated genes (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1F",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": "). Gene ontology (GO) analysis of genes upregulated in 5XFAD microglia revealed significant enrichment of immune-related biological processes, including innate immune response, interferon signaling, and lysosomal pathways (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1G",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": "). Consistent with subcluster-specific analyses, DAM versus HM comparison showed enrichment of endolysosomal, phagocytic, and immune regulatory pathways (Fig. S3, C & D), whereas IFN versus HM comparison revealed strong enrichment for Type I interferon signaling and cytokine-related processes (Fig. S3, E & F). Differential expression analysis comparing 5XFAD sEH KO versus 5XFAD microglia demonstrated widespread downregulation of genes associated with inflammatory and immune activation (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1H",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": "). GO analysis of genes downregulated in 5XFAD sEH KO microglia revealed enrichment for pathways related to innate immune response, interferon signaling, and cytokine-mediated processes (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 1I",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig1",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Collectively, these data indicate that germline disruption of sEH attenuates amyloid-associated remodeling of microglial transcriptional states, shifting microglia away from DAM and IFN-responsive programs.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s4a",
+     "kind": null,
+     "title": [
+      {
+       "text": "sEH disruption remodels microglial states",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Given the reduction of IFN-responsive microglial populations in 5XFAD sEH KO mice, we next examined transcriptional programs associated with IFN activation. Visualization of canonical interferon-stimulated genes (ISGs), including ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ifi204",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ifi207",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", demonstrated enrichment of these transcripts within the IFN-responsive microglial cluster (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2A",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "To further define transcriptional regulators associated with this program, we examined IFN-related transcription factors. Dot-plot analysis revealed increased expression of ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Stat1",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Stat2",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Irf8",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Sp100",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " in microglia from 5XFAD mice compared with WT controls, which was markedly reduced in 5XFAD sEH KO mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2B",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": "). Consistent with this, regulatory network analysis identified STAT-centered gene modules encompassing multiple ISGs and immune-responsive genes that were prominently enriched in the 5XFAD condition and attenuated in the absence of sEH (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2C",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "We next assessed whether these transcriptional changes were reflected at the protein level. Immunofluorescence staining for phosphorylated STAT1 (pSTAT1) revealed robust signal in IBA1⁺ microglia surrounding Methoxy-X04-positive plaques in 5XFAD mice, whereas pSTAT1 immunoreactivity was markedly reduced in plaque-associated microglia in 5XFAD sEH KO mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2D",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": "). Quantification confirmed a significant reduction in both total pSTAT1-positive area (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2E",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": ") and the percentage of pSTAT1 inside microglia (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2F",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": ") in 5XFAD sEH KO mice.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "To determine whether suppression of IFN signaling was accompanied by reduced expression of downstream inflammatory mediators, we next measured cytokine and ISG expression. Quantitative PCR analysis demonstrated significant upregulation of pro-inflammatory cytokine genes, including ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Il1α",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Il1β",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Il6",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", in 5XFAD mice relative to WT controls, and these increases were attenuated in 5XFAD sEH KO mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2, G–I",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": "). Similarly, expression of ISGs, including ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ifi27l2a",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Oas1",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", and IFN-associated transcripts, including ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ifi204",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Cxcl10",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", was significantly elevated in 5XFAD mice and attenuated following sEH disruption (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 2, J-M",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig2",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "These data demonstrate that sEH disruption attenuates the IFN-responsive microglial state, suppresses IFN-associated transcriptional networks and downstream STAT1 activation.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s4b",
+     "kind": null,
+     "title": [
+      {
+       "text": "sEH disruption suppresses IFN gene networks and STAT1 activation",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Because the cGAS-STING pathway is a major driver of IFN responses, we assessed STING activation in vivo. Immunofluorescence analysis revealed prominent accumulation of phosphorylated STING (pSTING) in IBA1⁺ microglia within the hippocampus of 5XFAD mice, whereas both total pSTING-positive area and the percentage of pSTING inside microglia were reduced in sEH-deficient animals (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 3, A-C",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig3",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [
+        {
+         "content": [
+          {
+           "text": "(A) Representative hippocampal immunofluorescence images from 6-month-old 5XFAD (5X) and 5XFAD sEH knockout (5X sEH KO) mice stained for phosphorylated STING (pSTING, green), IBA1 (microglia, red), and DAPI (blue), with merged panels as indicated. (B-C) Quantification of total pSTING signal (% area) and percentage of pSTING inside microglia are shown in (B) and (C). Each point represents one mouse. (D-E) Representative immunofluorescence images of primary microglia treated with vehicle (Veh), EET, DMXAA (STING agonist), or DMXAA + EET, stained for pSTING (green), IBA1 (red), and DAPI (blue). (D). Quantification of pSTING intensity (% area) is shown in (E). Each point represents one field from independent cultures. (F-H) Western blot analysis of pSTING and total STING in primary microglia treated as indicated, with α-TUBULIN as a loading control (F). Quantification of the pSTING/STING (G) and STING/α-TUBULIN (H) ratio is shown. (I–J) qPCR analysis of interferon-stimulated genes (ISGs) including ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Cxcl10",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (I), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Oas1",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (J), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Irf7",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (K), and ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Ifi204",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (L) following treatment with vehicle, EET, DMXAA, or DMXAA + EET in primary microglia; data are mean ± SEM. Statistics: Welch’s ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "t",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": "-test (B&C); One-way ANOVA followed by Tukey’s post hoc test (E, G-L). *",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.05, **",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.01, ***",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.001. Scale bar: 25 µm.",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "graphics": [
+        "759679v1_fig3"
+       ],
+       "id": "fig3",
+       "label": "Figure 3",
+       "supplementary": false,
+       "title": [
+        {
+         "text": "EET suppresses microglial STING activation and downstream interferon responses",
+         "type": "Text"
+        }
+       ],
+       "type": "Figure"
+      },
+      {
+       "content": [
+        {
+         "text": "Because sEH is primarily expressed in astrocytes and regulates the availability of EETs, we next examined whether EETs can modulate STING activation in microglia. Primary microglia were treated with vehicle, 11,12-EET (abbreviated as EET hereafter), STING agonist DMXAA, or DMXAA together with EET (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 3D",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig3",
+         "type": "XRef"
+        },
+        {
+         "text": "). Under basal conditions, pSTING levels remained low in vehicle- and EET-treated cultures. DMXAA induced robust pSTING accumulation, whereas co-treatment with EET markedly attenuated DMXAA-induced pSTING signal (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 3, D & E",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig3",
+         "type": "XRef"
+        },
+        {
+         "text": ").",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Consistent with the immunofluorescence findings, immunoblot analysis demonstrated increased pSTING levels following DMXAA stimulation, which were significantly reduced by EET treatment, while total STING protein levels remained unchanged (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 3, F-H",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig3",
+         "type": "XRef"
+        },
+        {
+         "text": "). These findings indicate that EET suppresses STING phosphorylation in response to agonist stimulation.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Consistent with pSTING levels, DMXAA induced robust expression of canonical ISGs, including ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Cxcl10",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Oas1",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Irf7",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ifi204",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", while co-treatment with EET significantly attenuated induction of all four ISGs (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 3, I-L",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig3",
+         "type": "XRef"
+        },
+        {
+         "text": "), Together, these findings demonstrate that EET suppresses STING activation and downstream interferon-responsive transcriptional programs in microglia.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s4c",
+     "kind": null,
+     "title": [
+      {
+       "text": "11,12-EET suppresses microglial STING activation and downstream interferon responses",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Since activated STING traffics to lysosomes for degradation and signal termination, we next examined whether EET-mediated suppression of STING is lysosome-dependent. DMXAA induced robust pSTING accumulation in primary microglia and promoted localization of pSTING within LAMP1-positive compartments (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 4A",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": "). Blockade of lysosomal acidification with Bafilomycin A1 (BAF) further enhanced DMXAA-induced pSTING levels, consistent with impaired lysosomal degradation of activated STING, the effect of both were attenuated by EET treatment (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 4, A",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "B",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": "). These findings indicate that lysosomes serve as a critical checkpoint for STING signal termination and is required for EET-mediated suppression of STING activation.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [
+        {
+         "content": [
+          {
+           "text": "(A) Representative immunofluorescence images of primary microglia treated with DMXAA, DMXAA + bafilomycin A1 (BAF), DMXAA + EET, or DMXAA + EET + BAF and stained for phosphorylated STING (pSTING, red), LAMP1 (lysosomes, green), and IBA1 (microglia, gray), with DAPI nuclear counterstain (blue). (B) Quantification of pSTING mean fluorescence intensity (MFI) per cell. (C) Western blot analysis of pSTING and total STING in primary microglia treated with vehicle (Veh), EET, BAF, DMXAA, DMXAA + BAF, DMXAA + EET and DMXAA + BAF + EET, with α-TUBULIN as a loading control. (D, E) Quantification of the pSTING/STING ratio (D) and total STING/α-TUBULIN ratio (E). (F) Representative immunofluorescence images of human iPSC-derived microglia treated with vehicle (Veh), EET, BAF, diABZI, diABZI + BAF, diABZI + EET, or diABZI + BAF + EET and stained for pSTING (green), IBA1 (red), and DAPI (blue). (G) Quantification of pSTING mean fluorescence intensity per cell. Each point represents an individual field. Data are mean ± SEM. One-way ANOVA followed by Tukey’s post hoc test (B, D, E) & Welch’s ANOVA followed by Games-Howell test for G. *",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.05, **",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.01, ***",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.001. Scale bar: 25 µm.",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "graphics": [
+        "759679v1_fig4"
+       ],
+       "id": "fig4",
+       "label": "Figure 4",
+       "supplementary": false,
+       "title": [
+        {
+         "text": "Lysosomal acidification is required for EET-mediated STING suppression",
+         "type": "Text"
+        }
+       ],
+       "type": "Figure"
+      },
+      {
+       "content": [
+        {
+         "text": "To independently validate these findings, STING activation was assessed by immunoblot analysis. Consistent with the immunofluorescence data, DMXAA treatment induced a marked increase in pSTING levels, whereas EET co-treatment substantially reduced STING phosphorylation (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 4, C",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "D",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": "). Inhibition of lysosomal acidification with BAF increased pSTING accumulation following DMXAA stimulation, levels of which were reduced upon EET treatment (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 4D",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": "). Total STING protein levels were not significantly altered across treatment groups (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 4E",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": "), suggesting that EET primarily regulates STING activation and signal resolution rather than overall STING abundance. Together, these results demonstrate that lysosomal activity modulates EET-mediated attenuation of STING signaling.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "We next investigated whether this mechanism is conserved in human microglia. Human iPSC-derived microglia were treated with vehicle, EET, BAF, the human-selective STING agonist diABZI, diABZI + EET, diABZI + BAF, or diABZI + EET + BAF. Similar to primary mouse microglia, diABZI induced robust pSTING accumulation that was markedly attenuated by EET treatment (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 4, F",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": " & ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "G",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig4",
+         "type": "XRef"
+        },
+        {
+         "text": "). Inhibition of lysosomal acidification reversed pSTING accumulation in diABZI + EET-treated cells, demonstrating that lysosomal function is required for EET-dependent control of STING signaling across species.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s4d",
+     "kind": null,
+     "title": [
+      {
+       "text": "Lysosomal involvement in EET-mediated STING suppression",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Given that EET suppresses STING activation and interferon-stimulated gene expression in microglia, we next examined whether EET treatment also influences microglial phagocytic function and lysosomal activity, two processes closely linked to amyloid clearance and inflammatory state regulation in neurodegenerative disease. Primary microglia were treated with vehicle or EET, and phagocytosis was evaluated using fluorescent bead uptake or pH-sensitive Aβ probes.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Immunofluorescence analysis revealed increased uptake of Alexa fluor (AF) 488-labeled beads in EET-treated microglia compared with vehicle-treated controls (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 5, A",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": " & ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "B",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": "). Consistent with these observations, treatment with pHrodo-conjugated Aβ42, which becomes fluorescent upon delivery to acidic compartments, revealed increased pHrodo-Aβ fluorescence intensity in EET-treated microglia 1 hour after pHrodo-Aβ incubation (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 5, C",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": " & ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "D",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": "). To determine whether enhanced Aβ uptake resulted in more efficient degradation, pHrodo-Aβ was measured 24 hours later, which showed marked reduction in EET treated cells (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 5E",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": "). This result was further validated by assessing FAM labelled Aβ42 following 24 hours of incubation in vehicle or EET treated microglial cultures, showing significantly lower levels of intracellular Aβ42 by EET treatment (Fig. S4, A & B). Together, these data indicate that EET treatment enhances both phagocytic uptake and downstream processing of Aβ in primary microglia, in line with prior studies linking microglial activation state and lysosomal function to amyloid clearance efficiency",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c8",
+          "c9",
+          "c43"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ".",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [
+        {
+         "content": [
+          {
+           "text": "(A) Representative images of primary microglia treated with vehicle (Veh) or EET, showing uptake of fluorescent beads (green) in IBA1⁺ microglia (red), with merged panels as indicated. (B) Quantification of mean fluorescence intensity (MFI) of AF488 beads per cell. (C) Representative images of primary microglia treated with vehicle (Veh) or EET and incubated with pHrodo-red Aβ (red) for 1h, washed, fixed and imaged at indicated time points (1 h and 24 h), with IBA1 (green) and DAPI (blue) staining. (D, E) Quantification of pHrodo-Aβ fluorescence per cell at 1 h (D) and 24 h (E). (F) Representative images of primary microglia treated with vehicle (Veh), EET, or bafilomycin A1 (BAF), showing lysosomal proteolysis assessed by DQ-BSA Green (green) and IBA1 (red), with merged panels. (G) Quantification of DQ-BSA fluorescence per cell. Each point represents an individual field; data are mean ± SEM. (B, D, E): Welch’s ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "t",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": "-test; G: unpaired ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "t",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": "-tests with Welch’s correction were performed to compare Veh vs EET and Veh vs BAF to accommodate the unequal sample sizes and unequal variances present between groups *",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.05, ***",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.001 where indicated. Scale bar: 25 µm.",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "graphics": [
+        "759679v1_fig5"
+       ],
+       "id": "fig5",
+       "label": "Figure 5",
+       "supplementary": false,
+       "title": [
+        {
+         "text": "EET enhances microglial Aβ phagocytosis and promotes lysosomal activity.",
+         "type": "Text"
+        }
+       ],
+       "type": "Figure"
+      },
+      {
+       "content": [
+        {
+         "text": "We next assessed whether EET treatment modulates lysosomal hydrolase activity, a key determinant of cargo degradation capacity. Microglia were incubated with DQ-BSA Green, a self-quenched proteolytic substrate that fluoresces upon lysosomal degradation. EET treatment increased DQ-BSA fluorescence relative to vehicle, whereas inhibition of lysosomal acidification with bafilomycin A1 (BAF) markedly reduced the signal (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 5, F",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": " and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "G",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig5",
+         "type": "XRef"
+        },
+        {
+         "text": "). Collectively, these findings demonstrate that EET enhances microglial phagocytosis and lysosomal hydrolase activity, supporting a model in which improved lysosomal competence contributes to both enhanced Aβ clearance and suppression of STING activity and innate immune signaling.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s4e",
+     "kind": null,
+     "title": [
+      {
+       "text": "EET enhances microglial phagocytosis and lysosomal hydrolase activity",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    },
+    {
+     "blocks": [
+      {
+       "content": [
+        {
+         "text": "Previous studies have shown that sEH is highly expressed in astrocytes, but can also be detected in brain endothelial cells where it regulates vascular function",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c36",
+          "c55",
+          "c56"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ". We next sought to determine the cellular source responsible for the protective effects observed in germline sEH-deficient mice by crossing the floxed ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ephx2",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": " mice with GFAP-Cre or Cdh5-Cre to generate astrocytic (5X sEH AKO) or endothelial (5X sEH EKO) disruption of sEH on 5XFAD background",
+         "type": "Text"
+        },
+        {
+         "ref_ids": [
+          "c40",
+          "c41",
+          "c42"
+         ],
+         "type": "Cite"
+        },
+        {
+         "text": ".",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "content": [
+        {
+         "text": "Immunoblot analysis confirmed efficient deletion of sEH in 5XFAD astrocyte-specific knockout mice (5X sEH AKO) (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6, A",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": " & ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "B",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "). Methoxy-X04 staining revealed reduced amyloid plaque burden in AKO mice relative to 5XFAD controls (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6, C-F",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "). Quantification demonstrated significant reductions in plaque number and size, accompanied by a trend toward reduced total plaque area. Additionally, to assess the association between microglia and Aβ plaques, we performed a spatial analysis of microglia residing within 20 µm of the plaque surface. Quantification revealed a significant reduction in the absolute count of plaque-proximal microglia in 5X sEH AKO compared with 5XFAD controls, indicating reduced microglial accumulation around amyloid deposits (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6G",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "). Consistent with reduced pathology, D54D2 staining revealed decreased amyloid deposition together with reduced IBA1 and GFAP immunoreactivity in AKO mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6, H-K",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "), indicating attenuation of plaque-associated gliosis. In contrast astrocytic sEH knockout, endothelial-specific disruption of sEH did not significantly alter plaque burden, amyloid deposition, microgliosis, or astrogliosis (Fig. S5).",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      },
+      {
+       "caption": [
+        {
+         "content": [
+          {
+           "text": "(A) Western blot analysis of sEH levels from hippocampal lysates of 5XFAD (5X) and astrocyte-specific sEH knockout (5X sEH AKO) mice, with β-ACTIN as a loading control. (B) Quantification of sEH/β-ACTIN ratio. (C) Representative confocal images of cortical sections stained with Methoxy X04 (MetX04; β-amyloid, blue). (D-G) Quantification of (D) absolute plaque counts, (E) plaque size, (F) MetX04-positive area, and (G) the number of plaque-associated microglia per image field. Plaque counts were determined by surface rendering in Imaris. For each mouse, measurements were averaged across three sections. (H) Representative confocal images of hippocampal sections stained with D54D2 (β-amyloid, white), IBA1 (microglia, green), and GFAP (astrocytes, red), with merged panels as indicated. (I-K) Quantification of D54D2-positive area (I), IBA1-positive area (J), and GFAP-positive area (K). (L) Representative hippocampal immunofluorescence images stained for phosphorylated STING (pSTING, green), IBA1 (microglia, red), and DAPI (blue), with merged panels as indicated. (M, N) Quantification of total pSTING-positive area (M) and percentage of pSTING-positive microglia (N). (O-R) qPCR analysis of inflammatory and interferon-responsive genes including ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Il6",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (O), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Il1α",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (P), ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Ifi204",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (Q), and ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "Cxcl10",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " (R) in hippocampal tissue from WT, sEH AKO, 5XFAD, and 5X sEH AKO mice. Each symbol represents one mouse; data are mean ± SEM. Statistics: B, D-G, I-K, M, N, O-R: Welch’s ",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "t",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": "-test; *",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.05, **",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.01, ****",
+           "type": "Text"
+          },
+          {
+           "children": [
+            {
+             "text": "p",
+             "type": "Text"
+            }
+           ],
+           "style": "italic",
+           "type": "Styled"
+          },
+          {
+           "text": " < 0.0001. Scale bar: 75 µm.",
+           "type": "Text"
+          }
+         ],
+         "continues": false,
+         "type": "Paragraph"
+        }
+       ],
+       "graphics": [
+        "759679v1_fig6"
+       ],
+       "id": "fig6",
+       "label": "Figure 6",
+       "supplementary": false,
+       "title": [
+        {
+         "text": "Astrocyte-specific deletion of sEH recapitulates reduced pathology and STING signaling",
+         "type": "Text"
+        }
+       ],
+       "type": "Figure"
+      },
+      {
+       "content": [
+        {
+         "text": "Given the reduction in IFN-responsive transcriptional programs observed in germline sEH-deficient mice, we next examined STING activation in astrocyte-specific knockout animals. Immunofluorescence staining revealed abundant pSTING immunoreactivity within IBA1⁺ microglia in 5XFAD mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6L",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "). Quantification showed that total pSTING immunofluorescence intensity in the hippocampus was not significantly altered in 5X sEH AKO mice relative to 5XFAD controls (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6M",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "). In contrast, the percentage of pSTING-positive microglia trended lower in astrocyte-specific knockout mice compared with 5XFAD controls (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6N",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "), indicating selective attenuation of microglial STING activation. Further supporting a functional role of astrocytic sEH, hippocampal expression of inflammatory and interferon-responsive genes, including ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Il6",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Il1α",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Ifi204",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", and ",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Cxcl10",
+           "type": "Text"
+          }
+         ],
+         "style": "italic",
+         "type": "Styled"
+        },
+        {
+         "text": ", was significantly reduced in 5X sEH AKO mice (",
+         "type": "Text"
+        },
+        {
+         "children": [
+          {
+           "text": "Fig. 6, O-R",
+           "type": "Text"
+          }
+         ],
+         "kind": "fig",
+         "target": "fig6",
+         "type": "XRef"
+        },
+        {
+         "text": "). Together, these findings demonstrate that astrocytic, but not endothelial, sEH is a major contributor to amyloid pathology, glial activation, and microglial innate immune signaling in the 5XFAD brain, establishing an astrocyte-microglia axis through which the sEH-EET pathway regulates lysosomal and immune homeostasis during AD progression.",
+         "type": "Text"
+        }
+       ],
+       "continues": false,
+       "type": "Paragraph"
+      }
+     ],
+     "id": "s4f",
+     "kind": null,
+     "title": [
+      {
+       "text": "Astrocyte-specific disruption of sEH reduced amyloid pathology and STING signaling",
+       "type": "Text"
+      }
+     ],
+     "type": "Section"
+    }
+   ],
+   "id": "s4",
+   "kind": null,
+   "title": [
+    {
+     "text": "Results",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "In this study, we extend our prior work revealing that genetic or pharmacologic sEH inhibition restores glial homeostasis in both amyloid and tau mouse models",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c36",
+        "c37"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". We demonstrate here that sEH disruption in 5XFAD mice suppresses disease-associated and IFN-responsive microglial programs and restrained STAT1 activation. We provide mechanistic depth by identifying lysosome-dependent termination of STING signaling as the downstream effector that couples epoxy-lipid signaling to lysosomal competence and innate immunity in the AD brain.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Type I IFN signaling has emerged as a pathogenic amplifier in AD, linking amyloid accumulation to synaptic dysfunction and cognitive decline",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c14",
+        "c15",
+        "c57"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ", and aberrant cGAS–STING activation drives neuroinflammation in aging and amyloidosis",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c17",
+        "c18",
+        "c19"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". That sEH loss broadly repressed IFN-associated transcription factors and ISG networks, with reduced pSTING and pSTAT1 in plaque-associated microglia, places the sEH–EET pathway upstream of this cascade.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "We show that EET treatment enhanced lysosomal hydrolase activity and degradation of phagocytosed cargo, whereas disruption of lysosomal acidification suppressed STING activation. Because lysosomes govern degradation of amyloid cargo while simultaneously serving as critical sites for STING signal termination, our data support a model in which lysosomal competence coordinately regulates inflammatory state and amyloid clearance. These findings align with previous observations that lysosomal dysfunction limits microglial clearance efficiency in AD and that restoration of lysosomal activity improves amyloid degradation",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c58",
+        "c59",
+        "c60"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Together, our data suggest that rather than representing independent processes, suppression of STING signaling and enhancement of Aβ degradation may arise from a common upstream mechanism involving restoration of lysosomal function by the sEH-EET axis.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Cell-type-specific deletion refines the cellular origin of this mechanism. Previous studies established protective effects of global sEH inhibition, but the responsible compartment remained unclear. Astrocytes are increasingly recognized as regulators of inflammatory tone, lipid homeostasis, and the extracellular milieu in neurodegeneration",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c61",
+        "c62",
+        "c63"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Although not considered primary phagocytes of amyloid, their capacity to shape lipid availability plausibly influences microglial responses at the tissue level. Consistent with this, astrocyte-specific disruption of sEH recapitulated many protective phenotypes of germline knockout mice, including reduced amyloid pathology, gliosis, and inflammatory gene expression, whereas endothelial-specific disruption had minimal effect. Total hippocampal pSTING was not significantly altered, though astrocyte-specific deletion showed a trend toward reduced microglial pSTING. Together these findings identify astrocytic sEH as a major regulator of brain EET availability and support an astrocyte-microglia axis through which epoxy lipid metabolism shapes microglial lysosomal competence, immune state, and amyloid clearance.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    },
+    {
+     "content": [
+      {
+       "text": "Recently, Wu et al. identified a liver-brain axis in which hepatic sEH regulates circulating EET levels and influences amyloid pathology, tauopathy, and cognition",
+       "type": "Text"
+      },
+      {
+       "ref_ids": [
+        "c39"
+       ],
+       "type": "Cite"
+      },
+      {
+       "text": ". Together with our astrocyte-specific results, this suggests that central and peripheral pools of sEH contribute to disease progression through distinct but convergent EET-dependent pathways.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s5",
+   "kind": null,
+   "title": [
+    {
+     "text": "Discussion",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "content": [
+      {
+       "text": "Our findings support a model in which astrocyte sEH-EET axis shapes microglial responses to amyloid pathology through regulation of STING-IFN-STAT1 signaling. By placing the sEH-EET pathway upstream of both STING-dependent inflammatory signaling and Aβ degradation, this study suggests that lysosomal competence may coordinate immune state and proteostatic function in the diseased brain. These observations provide a framework for understanding how glial metabolic pathways influence neurodegeneration and support further investigation of sEH inhibition as a therapeutic strategy in Alzheimer’s disease.",
+       "type": "Text"
+      }
+     ],
+     "continues": false,
+     "type": "Paragraph"
+    }
+   ],
+   "id": "s6",
+   "kind": null,
+   "title": [
+    {
+     "text": "Conclusions",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  },
+  {
+   "blocks": [
+    {
+     "caption": [],
+     "href": "supplements/759679_file02.pdf",
+     "id": "DC1",
+     "label": "Supplementary Methods, Figures, and Tables",
+     "type": "Supplement"
+    }
+   ],
+   "id": null,
+   "kind": "supplementary-material",
+   "title": [
+    {
+     "text": "Supporting information",
+     "type": "Text"
+    }
+   ],
+   "type": "Section"
+  }
+ ],
+ "category": null,
+ "cite_mode": "numeric",
+ "corrections": [],
+ "corresp": [
+  [
+   {
+    "text": "Corresponding author: HZ (",
+    "type": "Text"
+   },
+   {
+    "children": [
+     {
+      "text": "huiz@bcm.edu",
+      "type": "Text"
+     }
+    ],
+    "type": "Link",
+    "url": "mailto:huiz@bcm.edu"
+   },
+   {
+    "text": "), Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030. Phone: 713-798-1568",
+    "type": "Text"
+   }
+  ]
+ ],
+ "doi": "10.64898/2026.10.16.759679",
+ "equal_contrib_note": null,
+ "keywords": [
+  "Alzheimer’s disease",
+  "β-amyloid",
+  "microglia",
+  "soluble epoxide hydrolase",
+  "STING"
+ ],
+ "license_code": null,
+ "license_text": [
+  {
+   "text": "This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at ",
+   "type": "Text"
+  },
+  {
+   "children": [
+    {
+     "text": "http://creativecommons.org/licenses/by/4.0/",
+     "type": "Text"
+    }
+   ],
+   "type": "Link",
+   "url": "http://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "license_url": "http://creativecommons.org/licenses/by/4.0/",
+ "posted": null,
+ "references": [
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Hardy, ",
+     "type": "Text"
+    },
+    {
+     "text": "J. and ",
+     "type": "Text"
+    },
+    {
+     "text": "D.J. ",
+     "type": "Text"
+    },
+    {
+     "text": "Selkoe, ",
+     "type": "Text"
+    },
+    {
+     "text": "The amyloid hypothesis of Alzheimer’s disease: progress and problems on the ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "road to therapeutics",
+       "type": "Text"
+      }
+     ],
+     "style": "italic",
+     "type": "Styled"
+    },
+    {
+     "text": ". ",
+     "type": "Text"
+    },
+    {
+     "text": "Science, ",
+     "type": "Text"
+    },
+    {
+     "text": "2002. ",
+     "type": "Text"
+    },
+    {
+     "text": "297: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "353–",
+     "type": "Text"
+    },
+    {
+     "text": "356.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c1",
+   "kind": "mixed",
+   "label": "1.",
+   "number": 1,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Heneka, ",
+     "type": "Text"
+    },
+    {
+     "text": "M.T., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Neuroinflammation in Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Lancet Neurol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. ",
+     "type": "Text"
+    },
+    {
+     "text": "14: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "388–",
+     "type": "Text"
+    },
+    {
+     "text": "405.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c2",
+   "kind": "mixed",
+   "label": "2.",
+   "number": 2,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Colonna, ",
+     "type": "Text"
+    },
+    {
+     "text": "M. and ",
+     "type": "Text"
+    },
+    {
+     "text": "O. ",
+     "type": "Text"
+    },
+    {
+     "text": "Butovsky, ",
+     "type": "Text"
+    },
+    {
+     "text": "Microglia Function in the Central Nervous System During Health and Neurodegeneration. ",
+     "type": "Text"
+    },
+    {
+     "text": "Annu Rev of Immunol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "35: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "441–",
+     "type": "Text"
+    },
+    {
+     "text": "468.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c3",
+   "kind": "mixed",
+   "label": "3.",
+   "number": 3,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Leng, ",
+     "type": "Text"
+    },
+    {
+     "text": "F. and ",
+     "type": "Text"
+    },
+    {
+     "text": "P. ",
+     "type": "Text"
+    },
+    {
+     "text": "Edison, ",
+     "type": "Text"
+    },
+    {
+     "text": "Neuroinflammation and microglial activation in Alzheimer disease: where do we ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "go from here?",
+       "type": "Text"
+      }
+     ],
+     "style": "italic",
+     "type": "Styled"
+    },
+    {
+     "text": " ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Rev Neurol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2021. ",
+     "type": "Text"
+    },
+    {
+     "text": "17(",
+     "type": "Text"
+    },
+    {
+     "text": "3): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "157–",
+     "type": "Text"
+    },
+    {
+     "text": "172.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c4",
+   "kind": "mixed",
+   "label": "4.",
+   "number": 4,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Van Dyck, ",
+     "type": "Text"
+    },
+    {
+     "text": "C.H., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Lecanemab in Early Alzheimer’s Disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "N Engl J Med, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "388(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "9–",
+     "type": "Text"
+    },
+    {
+     "text": "21.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c5",
+   "kind": "mixed",
+   "label": "5.",
+   "number": 5,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Sevigny, ",
+     "type": "Text"
+    },
+    {
+     "text": "J., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "The antibody aducanumab reduces Aβ plaques in Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nature, ",
+     "type": "Text"
+    },
+    {
+     "text": "2016. ",
+     "type": "Text"
+    },
+    {
+     "text": "537: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "50–",
+     "type": "Text"
+    },
+    {
+     "text": "56.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c6",
+   "kind": "mixed",
+   "label": "6.",
+   "number": 6,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Sims, ",
+     "type": "Text"
+    },
+    {
+     "text": "J.R., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. ",
+     "type": "Text"
+    },
+    {
+     "text": "JAMA, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "330(",
+     "type": "Text"
+    },
+    {
+     "text": "6): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "512–",
+     "type": "Text"
+    },
+    {
+     "text": "527.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c7",
+   "kind": "mixed",
+   "label": "7.",
+   "number": 7,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Keren-Shaul, ",
+     "type": "Text"
+    },
+    {
+     "text": "H., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "A Unique Microglia Type Associated with Restricting Development of Alzheimer’s Disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Cell, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "169(",
+     "type": "Text"
+    },
+    {
+     "text": "7): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1276–",
+     "type": "Text"
+    },
+    {
+     "text": "1290.e17.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c8",
+   "kind": "mixed",
+   "label": "8.",
+   "number": 8,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Sala Frigerio, ",
+     "type": "Text"
+    },
+    {
+     "text": "C., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "The Major Risk Factors for Alzheimer’s Disease Modulate the Microglia Response ",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "to Aβ Plaques",
+       "type": "Text"
+      }
+     ],
+     "style": "italic",
+     "type": "Styled"
+    },
+    {
+     "text": ". ",
+     "type": "Text"
+    },
+    {
+     "text": "Cell Rep, ",
+     "type": "Text"
+    },
+    {
+     "text": "2019. ",
+     "type": "Text"
+    },
+    {
+     "text": "27: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1293–",
+     "type": "Text"
+    },
+    {
+     "text": "1306.e6.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c9",
+   "kind": "mixed",
+   "label": "9.",
+   "number": 9,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gerrits, ",
+     "type": "Text"
+    },
+    {
+     "text": "E., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Distinct amyloid-β and tau-associated microglia profiles. ",
+     "type": "Text"
+    },
+    {
+     "text": "Acta Neuropathol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2021. ",
+     "type": "Text"
+    },
+    {
+     "text": "141: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "681–",
+     "type": "Text"
+    },
+    {
+     "text": "696.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c10",
+   "kind": "mixed",
+   "label": "10.",
+   "number": 10,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Olah, ",
+     "type": "Text"
+    },
+    {
+     "text": "M., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "A transcriptomic atlas of aged human microglia. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Commun, ",
+     "type": "Text"
+    },
+    {
+     "text": "2018. ",
+     "type": "Text"
+    },
+    {
+     "text": "9: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "539.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c11",
+   "kind": "mixed",
+   "label": "11.",
+   "number": 11,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Mathys, ",
+     "type": "Text"
+    },
+    {
+     "text": "H., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Single-cell transcriptomic analysis of Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nature, ",
+     "type": "Text"
+    },
+    {
+     "text": "2019. ",
+     "type": "Text"
+    },
+    {
+     "text": "570(",
+     "type": "Text"
+    },
+    {
+     "text": "7761): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "332–",
+     "type": "Text"
+    },
+    {
+     "text": "337.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c12",
+   "kind": "mixed",
+   "label": "12.",
+   "number": 12,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Marschallinger, ",
+     "type": "Text"
+    },
+    {
+     "text": "J., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Lipid-droplet-accumulating microglia represent a dysfunctional and proinflammatory state in the aging brain. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Neurosci, ",
+     "type": "Text"
+    },
+    {
+     "text": "2020. ",
+     "type": "Text"
+    },
+    {
+     "text": "23(",
+     "type": "Text"
+    },
+    {
+     "text": "2): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "194–",
+     "type": "Text"
+    },
+    {
+     "text": "208.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c13",
+   "kind": "mixed",
+   "label": "13.",
+   "number": 13,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Roy, ",
+     "type": "Text"
+    },
+    {
+     "text": "E.R., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Type I interferon response drives neuroinflammation and synapse loss in Alzheimer disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "J Clin Invest, ",
+     "type": "Text"
+    },
+    {
+     "text": "2020. ",
+     "type": "Text"
+    },
+    {
+     "text": "130(",
+     "type": "Text"
+    },
+    {
+     "text": "4): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1912–",
+     "type": "Text"
+    },
+    {
+     "text": "1930.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c14",
+   "kind": "mixed",
+   "label": "14.",
+   "number": 14,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Taylor, ",
+     "type": "Text"
+    },
+    {
+     "text": "J.M., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Type-1 interferon signaling mediates neuro-inflammatory events in models of Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Neurobiol Aging, ",
+     "type": "Text"
+    },
+    {
+     "text": "2014. ",
+     "type": "Text"
+    },
+    {
+     "text": "35(",
+     "type": "Text"
+    },
+    {
+     "text": "5): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1012–",
+     "type": "Text"
+    },
+    {
+     "text": "23.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c15",
+   "kind": "mixed",
+   "label": "15.",
+   "number": 15,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Hopfner, ",
+     "type": "Text"
+    },
+    {
+     "text": "K.P. and ",
+     "type": "Text"
+    },
+    {
+     "text": "V. ",
+     "type": "Text"
+    },
+    {
+     "text": "Hornung, ",
+     "type": "Text"
+    },
+    {
+     "text": "Molecular mechanisms and cellular functions of cGAS–STING signalling. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Rev Mol Cell Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2020. ",
+     "type": "Text"
+    },
+    {
+     "text": "21: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "501–",
+     "type": "Text"
+    },
+    {
+     "text": "521.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c16",
+   "kind": "mixed",
+   "label": "16.",
+   "number": 16,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Xie, ",
+     "type": "Text"
+    },
+    {
+     "text": "X., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Activation of innate immune cGAS–STING pathway contributes to Alzheimer’s pathogenesis in 5×FAD mice. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Aging, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "3: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "202–",
+     "type": "Text"
+    },
+    {
+     "text": "212.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c17",
+   "kind": "mixed",
+   "label": "17.",
+   "number": 17,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gulen, ",
+     "type": "Text"
+    },
+    {
+     "text": "M.F., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "cGAS–STING drives ageing-related inflammation and neurodegeneration. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nature, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "620: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "374–",
+     "type": "Text"
+    },
+    {
+     "text": "383.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c18",
+   "kind": "mixed",
+   "label": "18.",
+   "number": 18,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Decout, ",
+     "type": "Text"
+    },
+    {
+     "text": "A., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "The cGAS-STING pathway as a therapeutic target in inflammatory diseases. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Rev Immunol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2021. ",
+     "type": "Text"
+    },
+    {
+     "text": "21(",
+     "type": "Text"
+    },
+    {
+     "text": "9): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "548–",
+     "type": "Text"
+    },
+    {
+     "text": "569.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c19",
+   "kind": "mixed",
+   "label": "19.",
+   "number": 19,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Balka, ",
+     "type": "Text"
+    },
+    {
+     "text": "K.R., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Termination of STING responses is mediated via ESCRT-dependent degradation. ",
+     "type": "Text"
+    },
+    {
+     "text": "EMBO J, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "42(",
+     "type": "Text"
+    },
+    {
+     "text": "7): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "e112712.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c20",
+   "kind": "mixed",
+   "label": "20.",
+   "number": 20,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Kuchitsu, ",
+     "type": "Text"
+    },
+    {
+     "text": "Y., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "STING signalling is terminated through ESCRT-dependent microautophagy of vesicles originating from recycling endosomes. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Cell Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "25(",
+     "type": "Text"
+    },
+    {
+     "text": "3): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "453–",
+     "type": "Text"
+    },
+    {
+     "text": "466.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c21",
+   "kind": "mixed",
+   "label": "21.",
+   "number": 21,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Tang, ",
+     "type": "Text"
+    },
+    {
+     "text": "Z., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "STING mediates lysosomal quality control and recovery through its proton channel function and TFEB activation in lysosomal storage disorders. ",
+     "type": "Text"
+    },
+    {
+     "text": "Mol Cell, ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. ",
+     "type": "Text"
+    },
+    {
+     "text": "85(",
+     "type": "Text"
+    },
+    {
+     "text": "8): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1624–",
+     "type": "Text"
+    },
+    {
+     "text": "1639 e5.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c22",
+   "kind": "mixed",
+   "label": "22.",
+   "number": 22,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Xu, ",
+     "type": "Text"
+    },
+    {
+     "text": "Y. and ",
+     "type": "Text"
+    },
+    {
+     "text": "W. ",
+     "type": "Text"
+    },
+    {
+     "text": "Wan, ",
+     "type": "Text"
+    },
+    {
+     "text": "Lysosomal control of the cGAS-STING signaling. ",
+     "type": "Text"
+    },
+    {
+     "text": "Trends Cell Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2024. ",
+     "type": "Text"
+    },
+    {
+     "text": "34(",
+     "type": "Text"
+    },
+    {
+     "text": "8): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "622–",
+     "type": "Text"
+    },
+    {
+     "text": "625.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c23",
+   "kind": "mixed",
+   "label": "23.",
+   "number": 23,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gonugunta, ",
+     "type": "Text"
+    },
+    {
+     "text": "V.K., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Trafficking-Mediated STING Degradation Requires Sorting to Acidified Endolysosomes and Can Be Targeted to Enhance Anti-tumor Response. ",
+     "type": "Text"
+    },
+    {
+     "text": "Cell Rep, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "21(",
+     "type": "Text"
+    },
+    {
+     "text": "11): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "3234–",
+     "type": "Text"
+    },
+    {
+     "text": "3242.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c24",
+   "kind": "mixed",
+   "label": "24.",
+   "number": 24,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Imig, ",
+     "type": "Text"
+    },
+    {
+     "text": "J.D. and ",
+     "type": "Text"
+    },
+    {
+     "text": "B.D. ",
+     "type": "Text"
+    },
+    {
+     "text": "Hammock, ",
+     "type": "Text"
+    },
+    {
+     "text": "Soluble epoxide hydrolase as a therapeutic target for cardiovascular diseases. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Rev Drug Discov, ",
+     "type": "Text"
+    },
+    {
+     "text": "2009. ",
+     "type": "Text"
+    },
+    {
+     "text": "8(",
+     "type": "Text"
+    },
+    {
+     "text": "10): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "794–",
+     "type": "Text"
+    },
+    {
+     "text": "805.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c25",
+   "kind": "mixed",
+   "label": "25.",
+   "number": 25,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Morisseau, ",
+     "type": "Text"
+    },
+    {
+     "text": "C. and ",
+     "type": "Text"
+    },
+    {
+     "text": "B.D. ",
+     "type": "Text"
+    },
+    {
+     "text": "Hammock, ",
+     "type": "Text"
+    },
+    {
+     "text": "Impact of soluble epoxide hydrolase and epoxyeicosanoids on human health. ",
+     "type": "Text"
+    },
+    {
+     "text": "Annu Rev Pharmacol Toxicol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2013. ",
+     "type": "Text"
+    },
+    {
+     "text": "53: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "37–",
+     "type": "Text"
+    },
+    {
+     "text": "58.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c26",
+   "kind": "mixed",
+   "label": "26.",
+   "number": 26,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Node, ",
+     "type": "Text"
+    },
+    {
+     "text": "K., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Anti-inflammatory properties of cytochrome P450 epoxygenase-derived eicosanoids. ",
+     "type": "Text"
+    },
+    {
+     "text": "Science, ",
+     "type": "Text"
+    },
+    {
+     "text": "1999. ",
+     "type": "Text"
+    },
+    {
+     "text": "285(",
+     "type": "Text"
+    },
+    {
+     "text": "5431): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1276-",
+     "type": "Text"
+    },
+    {
+     "text": "9.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c27",
+   "kind": "mixed",
+   "label": "27.",
+   "number": 27,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Abdalla, ",
+     "type": "Text"
+    },
+    {
+     "text": "H.B., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Soluble epoxide hydrolase inhibition avoid formalin-induced inflammatory hyperalgesia in the temporomandibular joint. ",
+     "type": "Text"
+    },
+    {
+     "text": "Inflammopharmacology, ",
+     "type": "Text"
+    },
+    {
+     "text": "2022. ",
+     "type": "Text"
+    },
+    {
+     "text": "30(",
+     "type": "Text"
+    },
+    {
+     "text": "3): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "981–",
+     "type": "Text"
+    },
+    {
+     "text": "990.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c28",
+   "kind": "mixed",
+   "label": "28.",
+   "number": 28,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gao, ",
+     "type": "Text"
+    },
+    {
+     "text": "P., ",
+     "type": "Text"
+    },
+    {
+     "text": "Y. ",
+     "type": "Text"
+    },
+    {
+     "text": "Cao, and ",
+     "type": "Text"
+    },
+    {
+     "text": "L. ",
+     "type": "Text"
+    },
+    {
+     "text": "Ma, ",
+     "type": "Text"
+    },
+    {
+     "text": "Regulation of soluble epoxide hydrolase in renal-associated diseases: insights from potential mechanisms to clinical researches. ",
+     "type": "Text"
+    },
+    {
+     "text": "Front Endocrinol (Lausanne), ",
+     "type": "Text"
+    },
+    {
+     "text": "2024. ",
+     "type": "Text"
+    },
+    {
+     "text": "15: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1304547.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c29",
+   "kind": "mixed",
+   "label": "29.",
+   "number": 29,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Panigrahy, ",
+     "type": "Text"
+    },
+    {
+     "text": "D., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Inhibition of Soluble Epoxide Hydrolase Reduces Inflammation and Myocardial Injury in Arrhythmogenic Cardiomyopathy. ",
+     "type": "Text"
+    },
+    {
+     "text": "JACC Basic Transl Sci, ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. ",
+     "type": "Text"
+    },
+    {
+     "text": "10(",
+     "type": "Text"
+    },
+    {
+     "text": "3): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "367–",
+     "type": "Text"
+    },
+    {
+     "text": "380.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c30",
+   "kind": "mixed",
+   "label": "30.",
+   "number": 30,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wang, ",
+     "type": "Text"
+    },
+    {
+     "text": "B., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Metabolism pathways of arachidonic acids: mechanisms and potential therapeutic targets. ",
+     "type": "Text"
+    },
+    {
+     "text": "Signal Transduct Target Ther, ",
+     "type": "Text"
+    },
+    {
+     "text": "2021. ",
+     "type": "Text"
+    },
+    {
+     "text": "6(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "94.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c31",
+   "kind": "mixed",
+   "label": "31.",
+   "number": 31,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Imig, ",
+     "type": "Text"
+    },
+    {
+     "text": "J.D., ",
+     "type": "Text"
+    },
+    {
+     "text": "Epigenetic soluble epoxide hydrolase regulation causes endothelial dysfunction. ",
+     "type": "Text"
+    },
+    {
+     "text": "Acta Physiol (Oxf), ",
+     "type": "Text"
+    },
+    {
+     "text": "2019. ",
+     "type": "Text"
+    },
+    {
+     "text": "225(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "e13203.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c32",
+   "kind": "mixed",
+   "label": "32.",
+   "number": 32,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Zhao, ",
+     "type": "Text"
+    },
+    {
+     "text": "X., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Soluble epoxide hydrolase inhibition protects the kidney from hypertension-induced damage. ",
+     "type": "Text"
+    },
+    {
+     "text": "J Am Soc Nephrol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2004. ",
+     "type": "Text"
+    },
+    {
+     "text": "15(",
+     "type": "Text"
+    },
+    {
+     "text": "5): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1244–",
+     "type": "Text"
+    },
+    {
+     "text": "53.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c33",
+   "kind": "mixed",
+   "label": "33.",
+   "number": 33,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Davis, ",
+     "type": "Text"
+    },
+    {
+     "text": "C.M., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Age-dependent cognitive impairment, hydrocephalus and leukocyte infiltration in transgenic mice with endothelial expression of human EPHX2. ",
+     "type": "Text"
+    },
+    {
+     "text": "NPJ Aging, ",
+     "type": "Text"
+    },
+    {
+     "text": "2022. ",
+     "type": "Text"
+    },
+    {
+     "text": "8(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "9.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c34",
+   "kind": "mixed",
+   "label": "34.",
+   "number": 34,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Kim, ",
+     "type": "Text"
+    },
+    {
+     "text": "D.S., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Soluble epoxide hydrolase in the liver orchestrates abdominal aortic aneurysm formation in mice. ",
+     "type": "Text"
+    },
+    {
+     "text": "Commun Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2026. ",
+     "type": "Text"
+    },
+    {
+     "text": "9(",
+     "type": "Text"
+    },
+    {
+     "text": "1).",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c35",
+   "kind": "mixed",
+   "label": "35.",
+   "number": 35,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Ghosh, ",
+     "type": "Text"
+    },
+    {
+     "text": "A., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "An epoxide hydrolase inhibitor reduces neuroinflammation in a mouse model of Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Sci Transl Med, ",
+     "type": "Text"
+    },
+    {
+     "text": "2020. ",
+     "type": "Text"
+    },
+    {
+     "text": "12(",
+     "type": "Text"
+    },
+    {
+     "text": "573).",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c36",
+   "kind": "mixed",
+   "label": "36.",
+   "number": 36,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wang, ",
+     "type": "Text"
+    },
+    {
+     "text": "S., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Inhibition of soluble epoxide hydrolase confers neuroprotection and restores microglial homeostasis in a tauopathy mouse model. ",
+     "type": "Text"
+    },
+    {
+     "text": "Mol Neurodegener, ",
+     "type": "Text"
+    },
+    {
+     "text": "2025. ",
+     "type": "Text"
+    },
+    {
+     "text": "20(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "44.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c37",
+   "kind": "mixed",
+   "label": "37.",
+   "number": 37,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Lee, ",
+     "type": "Text"
+    },
+    {
+     "text": "H.T., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Genetic deletion of soluble epoxide hydrolase delays the progression of Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "J Neuroinflammation, ",
+     "type": "Text"
+    },
+    {
+     "text": "2019. ",
+     "type": "Text"
+    },
+    {
+     "text": "16(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "267.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c38",
+   "kind": "mixed",
+   "label": "38.",
+   "number": 38,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wu, ",
+     "type": "Text"
+    },
+    {
+     "text": "Y., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Hepatic soluble epoxide hydrolase activity regulates cerebral Abeta metabolism and the pathogenesis of Alzheimer’s disease in mice. ",
+     "type": "Text"
+    },
+    {
+     "text": "Neuron, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "111(",
+     "type": "Text"
+    },
+    {
+     "text": "18): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "2847–",
+     "type": "Text"
+    },
+    {
+     "text": "2862 e10.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c39",
+   "kind": "mixed",
+   "label": "39.",
+   "number": 39,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Bettaieb, ",
+     "type": "Text"
+    },
+    {
+     "text": "A., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Podocyte-specific soluble epoxide hydrolase deficiency in mice attenuates acute kidney injury. ",
+     "type": "Text"
+    },
+    {
+     "text": "FEBS J, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "284(",
+     "type": "Text"
+    },
+    {
+     "text": "13): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1970–",
+     "type": "Text"
+    },
+    {
+     "text": "1986.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c40",
+   "kind": "mixed",
+   "label": "40.",
+   "number": 40,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gregorian, ",
+     "type": "Text"
+    },
+    {
+     "text": "C., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Pten deletion in adult neural stem/progenitor cells enhances constitutive neurogenesis. ",
+     "type": "Text"
+    },
+    {
+     "text": "J Neurosci, ",
+     "type": "Text"
+    },
+    {
+     "text": "2009. ",
+     "type": "Text"
+    },
+    {
+     "text": "29(",
+     "type": "Text"
+    },
+    {
+     "text": "6): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1874–",
+     "type": "Text"
+    },
+    {
+     "text": "86.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c41",
+   "kind": "mixed",
+   "label": "41.",
+   "number": 41,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Alva, ",
+     "type": "Text"
+    },
+    {
+     "text": "J.A., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "VE-Cadherin-Cre-recombinase transgenic mouse: a tool for lineage analysis and gene deletion in endothelial cells. ",
+     "type": "Text"
+    },
+    {
+     "text": "Dev Dyn, ",
+     "type": "Text"
+    },
+    {
+     "text": "2006. ",
+     "type": "Text"
+    },
+    {
+     "text": "235(",
+     "type": "Text"
+    },
+    {
+     "text": "3): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "759–",
+     "type": "Text"
+    },
+    {
+     "text": "67.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c42",
+   "kind": "mixed",
+   "label": "42.",
+   "number": 42,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wang, ",
+     "type": "Text"
+    },
+    {
+     "text": "B., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "TFEB-vacuolar ATPase signaling regulates lysosomal function and microglial activation in tauopathy. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Neurosci, ",
+     "type": "Text"
+    },
+    {
+     "text": "2024. ",
+     "type": "Text"
+    },
+    {
+     "text": "27(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "48–",
+     "type": "Text"
+    },
+    {
+     "text": "62.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c43",
+   "kind": "mixed",
+   "label": "43.",
+   "number": 43,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Fleming, ",
+     "type": "Text"
+    },
+    {
+     "text": "S.J., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Unsupervised removal of systematic background noise from droplet-based single-",
+     "type": "Text"
+    },
+    {
+     "children": [
+      {
+       "text": "cell experiments using CellBender",
+       "type": "Text"
+      }
+     ],
+     "style": "italic",
+     "type": "Styled"
+    },
+    {
+     "text": ". ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Methods, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "20(",
+     "type": "Text"
+    },
+    {
+     "text": "9): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1323–",
+     "type": "Text"
+    },
+    {
+     "text": "1335.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c44",
+   "kind": "mixed",
+   "label": "44.",
+   "number": 44,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wolock, ",
+     "type": "Text"
+    },
+    {
+     "text": "S.L., ",
+     "type": "Text"
+    },
+    {
+     "text": "R. ",
+     "type": "Text"
+    },
+    {
+     "text": "Lopez, and ",
+     "type": "Text"
+    },
+    {
+     "text": "A.M. ",
+     "type": "Text"
+    },
+    {
+     "text": "Klein, ",
+     "type": "Text"
+    },
+    {
+     "text": "Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data. ",
+     "type": "Text"
+    },
+    {
+     "text": "Cell Syst, ",
+     "type": "Text"
+    },
+    {
+     "text": "2019. ",
+     "type": "Text"
+    },
+    {
+     "text": "8(",
+     "type": "Text"
+    },
+    {
+     "text": "4): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "281–",
+     "type": "Text"
+    },
+    {
+     "text": "291 e9.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c45",
+   "kind": "mixed",
+   "label": "45.",
+   "number": 45,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Wolf, ",
+     "type": "Text"
+    },
+    {
+     "text": "F.A., ",
+     "type": "Text"
+    },
+    {
+     "text": "P. ",
+     "type": "Text"
+    },
+    {
+     "text": "Angerer, and ",
+     "type": "Text"
+    },
+    {
+     "text": "F.J. ",
+     "type": "Text"
+    },
+    {
+     "text": "Theis, ",
+     "type": "Text"
+    },
+    {
+     "text": "SCANPY: large-scale single-cell gene expression data analysis. ",
+     "type": "Text"
+    },
+    {
+     "text": "Genome Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2018. ",
+     "type": "Text"
+    },
+    {
+     "text": "19(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "15.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c46",
+   "kind": "mixed",
+   "label": "46.",
+   "number": 46,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Xu, ",
+     "type": "Text"
+    },
+    {
+     "text": "C., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Probabilistic harmonization and annotation of single-cell transcriptomics data with deep generative models. ",
+     "type": "Text"
+    },
+    {
+     "text": "Mol Syst Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2021. ",
+     "type": "Text"
+    },
+    {
+     "text": "17(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "e9620.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c47",
+   "kind": "mixed",
+   "label": "47.",
+   "number": 47,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "La Manno, ",
+     "type": "Text"
+    },
+    {
+     "text": "G., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "RNA velocity of single cells. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nature, ",
+     "type": "Text"
+    },
+    {
+     "text": "2018. ",
+     "type": "Text"
+    },
+    {
+     "text": "560(",
+     "type": "Text"
+    },
+    {
+     "text": "7719): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "494–",
+     "type": "Text"
+    },
+    {
+     "text": "498.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c48",
+   "kind": "mixed",
+   "label": "48.",
+   "number": 48,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Bergen, ",
+     "type": "Text"
+    },
+    {
+     "text": "V., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Generalizing RNA velocity to transient cell states through dynamical modeling. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Biotechnol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2020. ",
+     "type": "Text"
+    },
+    {
+     "text": "38(",
+     "type": "Text"
+    },
+    {
+     "text": "12): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1408–",
+     "type": "Text"
+    },
+    {
+     "text": "1414.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c49",
+   "kind": "mixed",
+   "label": "49.",
+   "number": 49,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Hao, ",
+     "type": "Text"
+    },
+    {
+     "text": "Y., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Dictionary learning for integrative, multimodal and scalable single-cell analysis. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Biotechnol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2024. ",
+     "type": "Text"
+    },
+    {
+     "text": "42(",
+     "type": "Text"
+    },
+    {
+     "text": "2): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "293–",
+     "type": "Text"
+    },
+    {
+     "text": "304.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c50",
+   "kind": "mixed",
+   "label": "50.",
+   "number": 50,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Aibar, ",
+     "type": "Text"
+    },
+    {
+     "text": "S., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "SCENIC: single-cell regulatory network inference and clustering. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Methods, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "14(",
+     "type": "Text"
+    },
+    {
+     "text": "11): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1083–",
+     "type": "Text"
+    },
+    {
+     "text": "1086.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c51",
+   "kind": "mixed",
+   "label": "51.",
+   "number": 51,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Gedam, ",
+     "type": "Text"
+    },
+    {
+     "text": "M., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Complement C3aR depletion reverses HIF-1alpha-induced metabolic impairment and enhances microglial response to Abeta pathology. ",
+     "type": "Text"
+    },
+    {
+     "text": "J Clin Invest, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "133(",
+     "type": "Text"
+    },
+    {
+     "text": "12).",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c52",
+   "kind": "mixed",
+   "label": "52.",
+   "number": 52,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Abud, ",
+     "type": "Text"
+    },
+    {
+     "text": "E.M., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "iPSC-Derived Human Microglia-like Cells to Study Neurological Diseases. ",
+     "type": "Text"
+    },
+    {
+     "text": "Neuron, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "94(",
+     "type": "Text"
+    },
+    {
+     "text": "2): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "278–",
+     "type": "Text"
+    },
+    {
+     "text": "293 e9.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c53",
+   "kind": "mixed",
+   "label": "53.",
+   "number": 53,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "McQuade, ",
+     "type": "Text"
+    },
+    {
+     "text": "A., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Development and validation of a simplified method to generate human microglia from pluripotent stem cells. ",
+     "type": "Text"
+    },
+    {
+     "text": "Mol Neurodegener, ",
+     "type": "Text"
+    },
+    {
+     "text": "2018. ",
+     "type": "Text"
+    },
+    {
+     "text": "13(",
+     "type": "Text"
+    },
+    {
+     "text": "1): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "67.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c54",
+   "kind": "mixed",
+   "label": "54.",
+   "number": 54,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Zhang, ",
+     "type": "Text"
+    },
+    {
+     "text": "W., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Role of endothelial soluble epoxide hydrolase in cerebrovascular function and ischemic injury. ",
+     "type": "Text"
+    },
+    {
+     "text": "PLoS One, ",
+     "type": "Text"
+    },
+    {
+     "text": "2013. ",
+     "type": "Text"
+    },
+    {
+     "text": "8(",
+     "type": "Text"
+    },
+    {
+     "text": "4): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "e61244.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c55",
+   "kind": "mixed",
+   "label": "55.",
+   "number": 55,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Bah, ",
+     "type": "Text"
+    },
+    {
+     "text": "T.M., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Soluble epoxide hydrolase inhibition reverses cognitive dysfunction in a mouse model of metabolic syndrome by modulating inflammation. ",
+     "type": "Text"
+    },
+    {
+     "text": "Prostaglandins Other Lipid Mediat, ",
+     "type": "Text"
+    },
+    {
+     "text": "2024. ",
+     "type": "Text"
+    },
+    {
+     "text": "173: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "106850.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c56",
+   "kind": "mixed",
+   "label": "56.",
+   "number": 56,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Kinney, ",
+     "type": "Text"
+    },
+    {
+     "text": "J.W., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Inflammation as a central mechanism in Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "Alzheimers Dement (N Y), ",
+     "type": "Text"
+    },
+    {
+     "text": "2018. ",
+     "type": "Text"
+    },
+    {
+     "text": "4: p. ",
+     "type": "Text"
+    },
+    {
+     "text": "575–",
+     "type": "Text"
+    },
+    {
+     "text": "590.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c57",
+   "kind": "mixed",
+   "label": "57.",
+   "number": 57,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Majumdar, ",
+     "type": "Text"
+    },
+    {
+     "text": "A., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Activation of microglia acidifies lysosomes and leads to degradation of Alzheimer amyloid fibrils. ",
+     "type": "Text"
+    },
+    {
+     "text": "Mol Biol Cell, ",
+     "type": "Text"
+    },
+    {
+     "text": "2007. ",
+     "type": "Text"
+    },
+    {
+     "text": "18(",
+     "type": "Text"
+    },
+    {
+     "text": "4): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1490–",
+     "type": "Text"
+    },
+    {
+     "text": "6.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c58",
+   "kind": "mixed",
+   "label": "58.",
+   "number": 58,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Choi, ",
+     "type": "Text"
+    },
+    {
+     "text": "I., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Autophagy enables microglia to engage amyloid plaques and prevents microglial senescence. ",
+     "type": "Text"
+    },
+    {
+     "text": "Nat Cell Biol, ",
+     "type": "Text"
+    },
+    {
+     "text": "2023. ",
+     "type": "Text"
+    },
+    {
+     "text": "25(",
+     "type": "Text"
+    },
+    {
+     "text": "7): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "963–",
+     "type": "Text"
+    },
+    {
+     "text": "974.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c59",
+   "kind": "mixed",
+   "label": "59.",
+   "number": 59,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Bao, ",
+     "type": "Text"
+    },
+    {
+     "text": "J., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Deacetylation of TFEB promotes fibrillar Abeta degradation by upregulating lysosomal biogenesis in microglia. ",
+     "type": "Text"
+    },
+    {
+     "text": "Protein Cell, ",
+     "type": "Text"
+    },
+    {
+     "text": "2016. ",
+     "type": "Text"
+    },
+    {
+     "text": "7(",
+     "type": "Text"
+    },
+    {
+     "text": "6): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "417–",
+     "type": "Text"
+    },
+    {
+     "text": "33.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c60",
+   "kind": "mixed",
+   "label": "60.",
+   "number": 60,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Liddelow, ",
+     "type": "Text"
+    },
+    {
+     "text": "S.A. and ",
+     "type": "Text"
+    },
+    {
+     "text": "B.A. ",
+     "type": "Text"
+    },
+    {
+     "text": "Barres, ",
+     "type": "Text"
+    },
+    {
+     "text": "Reactive Astrocytes: Production, Function, and Therapeutic Potential. ",
+     "type": "Text"
+    },
+    {
+     "text": "Immunity, ",
+     "type": "Text"
+    },
+    {
+     "text": "2017. ",
+     "type": "Text"
+    },
+    {
+     "text": "46(",
+     "type": "Text"
+    },
+    {
+     "text": "6): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "957–",
+     "type": "Text"
+    },
+    {
+     "text": "967.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c61",
+   "kind": "mixed",
+   "label": "61.",
+   "number": 61,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Pena-Ramos, ",
+     "type": "Text"
+    },
+    {
+     "text": "O., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Astrocyte cell-surface proteomics identified CD44 as an OPN/SPP1 receptor regulating lipid metabolism and glial crosstalk in Alzheimer’s disease. ",
+     "type": "Text"
+    },
+    {
+     "text": "bioRxiv, ",
+     "type": "Text"
+    },
+    {
+     "text": "2025.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c62",
+   "kind": "mixed",
+   "label": "62.",
+   "number": 62,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  },
+  {
+   "citation_type": "journal",
+   "content": [
+    {
+     "text": "Ioannou, ",
+     "type": "Text"
+    },
+    {
+     "text": "M.S., ",
+     "type": "Text"
+    },
+    {
+     "text": "et al., ",
+     "type": "Text"
+    },
+    {
+     "text": "Neuron-Astrocyte Metabolic Coupling Protects against Activity-Induced Fatty Acid Toxicity. ",
+     "type": "Text"
+    },
+    {
+     "text": "Cell, ",
+     "type": "Text"
+    },
+    {
+     "text": "2019. ",
+     "type": "Text"
+    },
+    {
+     "text": "177(",
+     "type": "Text"
+    },
+    {
+     "text": "6): p. ",
+     "type": "Text"
+    },
+    {
+     "text": "1522–",
+     "type": "Text"
+    },
+    {
+     "text": "1535 e14.",
+     "type": "Text"
+    }
+   ],
+   "doi": null,
+   "id": "c63",
+   "kind": "mixed",
+   "label": "63.",
+   "number": 63,
+   "pmid": null,
+   "type": "Reference",
+   "url": null
+  }
+ ],
+ "server": null,
+ "source_numbered": false,
+ "title": [
+  {
+   "text": "Astrocytic sEH–EET signaling regulates microglial lysosomal function and suppresses the STING–Type I interferon pathway in Alzheimer’s disease",
+   "type": "Text"
+  }
+ ],
+ "type": "Article",
+ "version": null,
+ "warnings": [],
+ "withdrawn": null
+}

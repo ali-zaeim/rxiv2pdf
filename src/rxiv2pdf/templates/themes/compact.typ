@@ -1,0 +1,28 @@
+// "compact": a dense letters-journal look. Smaller serif on narrow margins, serif title, bold
+// abstract, letterspaced capital headings with run-in subheadings, page numbers in the header.
+#let theme = (
+  accent: luma(25),
+  body-size: 8.5pt,
+  line-pitch: 1.2,
+  gutter: 4.5mm,
+  margin: (x: 13mm, top: 16mm, bottom: 15mm),
+  title-font: "body",
+  title-size: 15.5pt,
+  author-size: 8.5pt,
+  affil-size: 6.5pt,
+  affil-style: "run-on",
+  abstract-style: "plain",
+  abstract-size: 8.5pt,
+  heading-numbering: none,
+  heading-color: "black",
+  heading-sizes: (8pt, 8.5pt),
+  heading-case: "upper",
+  subheading-style: "run-in",
+  caption-size: 7pt,
+  table-size: 7pt,
+  ref-size: 6.75pt,
+  ref-pitch: 0.8,
+  folio: "header",
+  header-rule: 0.4pt + luma(25),
+  cite-style: "superscript",
+)

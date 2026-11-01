@@ -1,0 +1,77 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v10.3.3
+      - run: uv run --frozen ruff check src tests scripts
+
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        python: ["3.11", "3.14"]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v10.3.3
+        with:
+          python-version: ${{ matrix.python }}
+      - run: uv run --frozen pytest
+
+  # The oldest dependency versions pyproject.toml allows: catches floors that are too low.
+  lowest-deps:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v10.3.3
+        with:
+          python-version: "3.11"
+      - run: uv venv
+      - run: uv pip install --resolution lowest-direct . "pytest>=8.3"
+      - run: .venv/bin/python -m pytest
+
+  # Build the wheel, install it outside the source tree and render a fixture paper with it,
+  # so a file missing from the package (template, font) fails here and not for users.
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v10.3.3
+      - run: uv build
+      - run: uvx twine check dist/*
+      - name: Render with the installed wheel
+        run: |
+          uv venv /tmp/wheel-env
+          uv pip install --python /tmp/wheel-env/bin/python dist/*.whl
+          cd /tmp
+          /tmp/wheel-env/bin/rxiv2pdf --help > /dev/null
+          /tmp/wheel-env/bin/python - "$GITHUB_WORKSPACE/tests/fixtures/2026.10.16.759679" <<'EOF'
+          import sys, tempfile
+          from pathlib import Path
+          import rxiv2pdf
+          from rxiv2pdf.compile import compile_typst, install_template
+          from rxiv2pdf.jats import parse_jats
+          from rxiv2pdf.render_typst import render
+          assert "site-packages" in rxiv2pdf.__file__, rxiv2pdf.__file__
+          article = parse_jats(next(Path(sys.argv[1]).glob("v*.source.xml")).read_bytes())
+          source, _ = render(article, assets={})
+          with tempfile.TemporaryDirectory() as tmp:
+              build = Path(tmp)
+              install_template(build)
+              (build / "doc.typ").write_text(source, encoding="utf-8")
+              warnings = compile_typst(build / "doc.typ", build / "doc.pdf", root=build)
+              assert (build / "doc.pdf").stat().st_size > 50_000, "no PDF"
+              print("rendered with", rxiv2pdf.__version__, "warnings:", warnings)
+          EOF
